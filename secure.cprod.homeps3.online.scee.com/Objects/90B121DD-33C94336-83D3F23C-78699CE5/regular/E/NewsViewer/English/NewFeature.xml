@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss 
+	xmlns:dc="http://purl.org/dc/elements/1.1/" 
+	version="2.0"
+	xmlns:PSHome="http://sppwilliamsfreestuff1.tumblr.com/#">
+	
+	<channel>
+		<atom:link rel="hub" href="http://tumblr.superfeedr.com/" xmlns:atom="http://www.w3.org/2005/Atom"/>
+		<description></description>
+		<title>freestuff1</title>
+		<generator>Tumblr (3.0; @sppwilliamsfreestuff1)</generator><link>http://sppwilliamsfreestuff1.tumblr.com/</link>
+		
+		<item>
+			<title>Happy 6th birthday, AlphaZone4!</title>
+			<description>&lt;p&gt;&lt;img alt="image" src="http://scee-home.playstation.net/e.home/hosted/CommercePoints/Thumbnails/az4bday6size.dds"/&gt;&lt;/p&gt;</description>
+		</item>	
+							<item>
+			<title>Giftinator</title>
+			<description>&lt;p&gt;&lt;img alt="image" src="http://scee-home.playstation.net/e.home/hosted/NewsViewer/20141203/GiftinatorWeeklyGift__NewsViewer_400x236.dds"/&gt;&lt;/p&gt;</description>
+		</item>	
+					<item>
+			<title>Aurora is saved!</title>
+			<description>&lt;p&gt;&lt;img alt="image" src="http://scee-home.playstation.net/e.home/hosted/CommercePoints/Thumbnails/DefendAurora.dds"/&gt;&lt;/p&gt;</description>
+			<PSHome:CUSTOM_CONTENT link="ACCEPT|scene|Aurora_Non_SCEJ_568D_1E32" />
+		</item>	
+			<item>
+			<title>Atom Universe</title>
+			<description>&lt;p&gt;&lt;img alt="image" src="http://scee-home.playstation.net/e.home/hosted/NewsViewer/20141203/AtomUniverse_newsViewer.dds"/&gt;&lt;/p&gt;</description>
+		</item>	
+	</channel>
+</rss>
