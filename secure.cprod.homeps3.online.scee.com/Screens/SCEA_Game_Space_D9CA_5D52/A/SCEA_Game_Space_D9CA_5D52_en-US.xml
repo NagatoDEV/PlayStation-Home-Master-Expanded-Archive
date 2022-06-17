@@ -1,0 +1,44 @@
+<XML>
+  <SCREEN ID="GSVideoScreen02">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/Anime_Beach_200814_Home.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/Figment_Power_Suits_200814_Home.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/Ajagara_Guardians_and_Golems_270814_Home.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/Foal_Holiday_270814_Home.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/MindPowers_Notakai_270814_Home.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/VEEMEE_SplitEnds_Batch003_PromoVideo_720x400_2014-08-27_SCEA.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="GSVideoScreen01">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/TO1886_GAMESCOM_Home.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/HatchbackVIS_151.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/MindPowers_Notakai_270814_Home.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/VEEMEE_Combined_PromoVideo_720x400_2014-08-20_SCEA.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/VEEMEE_SplitEnds_Batch003_PromoVideo_720x400_2014-08-27_SCEA.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="GSImageAdvert01">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Anim_Bundle_684.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/3DPrinter_Batch032_set01_2014-08-27_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/FriendsPoses_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Jive_Dresses_684x384.dds</SOURCE>
+    <SOURCE> 	http://scea-home.playstation.net/a.home/mfe/content/Posters/XPBoost_684.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="GSImageAdvert02">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/AQUA_III_Billboard_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/PhoenixGuardians_272014_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/DreamAdventureLKWD_Life_684x384_270814.dds</SOURCE>
+    <SOURCE> 	http://scea-home.playstation.net/a.home/mfe/content/Posters/Billabong_Batch003_Male_2014-08-27_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Goddess_Egyptian_Goddess_09-3-2014_684x384.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="GSImageAdvert03">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Hairstyles_200814_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MindPowers_272014_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Notakai_272014_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Jive_Tartan_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MegabundlesI_Billboard_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Billabong_Batch003_Female_2014-08-27_684x384.dds</SOURCE>
+  </SCREEN>
+</XML>

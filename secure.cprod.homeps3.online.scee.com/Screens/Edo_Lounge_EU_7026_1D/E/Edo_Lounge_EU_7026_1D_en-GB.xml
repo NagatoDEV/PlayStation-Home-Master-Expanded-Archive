@@ -1,0 +1,22 @@
+<XML>
+  <SCREEN ID="GRN_0002_305">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Granzella/Teahouse.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="GRN_0002_301">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/07_08_2013/GRN_0002_301_poster_edo1_20130807.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="GRN_0002_302">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/29_01_2014/GRN_0002_302_poster_edo2_20140129.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="GRN_0002_303">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/02_04_2014/GRN_0002_303_poster_edo3_20140326.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="GRN_0002_304">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/29_01_2014/GRN_0002_304_poster_edo4_20140129.dds</SOURCE>
+  </SCREEN>
+</XML>

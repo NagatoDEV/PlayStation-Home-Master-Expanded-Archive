@@ -1,0 +1,84 @@
+<XML>
+  <SCREEN ID="VideoScreen">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/HK_Ibiza_Vers1.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/HK_Ibiza_Vers2.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/HK_Ibiza_Vers3.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/HK_Ibiza_Vers4.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/HK_Ibiza_Vers5.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="StandardScreen01">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_ShakiraNewRelease_US_HomePoster.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_SiaNewRelease_US_HomePoster.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="StandardScreen02">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_BeckNewRelease_US_HomePoster.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_SiaNewRelease_US_HomePoster.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="StandardScreen03">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_ForWhateverSongIsInYourHead30Day_US_HomePoster.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_SiaNewRelease_US_HomePoster.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_LinkinParkTheHuntingPartyNewRelease_US_HomePoster.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="StandardScreen04">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_FosterThePeopleNewRelease_US_HomePoster.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_SiaNewRelease_US_HomePoster.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="StandardScreen05">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_PharrellNewRelease_US_HomePoster.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_SiaNewRelease_US_HomePoster.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_LinkinParkTheHuntingPartyNewRelease_US_HomePoster.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="StandardScreen06">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_ShakiraNewRelease_US_HomePoster.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_SiaNewRelease_US_HomePoster.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="StandardScreen07">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_BeckNewRelease_US_HomePoster.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_SiaNewRelease_US_HomePoster.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_LinkinParkTheHuntingPartyNewRelease_US_HomePoster.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="StandardScreen08">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_ForWhateverSongIsInYourHead30Day_US_HomePoster.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_SiaNewRelease_US_HomePoster.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="BillboardScreen01">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_ShakiraNewRelease_US_HomeBillboard.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_SiaNewRelease_US_HomePoster.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="BillboardScreen02">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_BeckNewRelease_US_HomeBillboard.dds</SOURCE>
+    <SOURCE> 	http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_SiaNewRelease_US_HomeBillboard.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_LinkinParkTheHuntingPartyNewRelease_US_HomeBillboard.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="BillboardScreen03">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_ForWhateverSongIsInYourHead30Day_US_HomeBillboard.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_LinkinParkTheHuntingPartyNewRelease_US_HomeBillboard.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_MichaelJacksonNewRelease_US_HomeBillboard.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="BillboardScreen04">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_FosterThePeopleNewRelease_US_HomeBillboard.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_SiaNewRelease_US_HomeBillboard.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_LinkinParkTheHuntingPartyNewRelease_US_HomeBillboard.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="BillboardScreen05">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_ShakiraNewRelease_US_HomeBillboard.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_BeckNewRelease_US_HomeBillboard.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_ForWhateverSongIsInYourHead30Day_US_HomeBillboard.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_FosterThePeopleNewRelease_US_HomeBillboard.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MU_PharrellNewRelease_US_HomeBillboard.dds</SOURCE>
+  </SCREEN>
+</XML>

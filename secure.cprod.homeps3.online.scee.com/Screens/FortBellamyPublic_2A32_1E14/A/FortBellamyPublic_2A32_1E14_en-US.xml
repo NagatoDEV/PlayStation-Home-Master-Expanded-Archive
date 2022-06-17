@@ -1,0 +1,19 @@
+<XML>
+  <SCREEN ID="FortBellamy_Video">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/Iron_Fusion_Flow_Motion300714_Home.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/Jmetal300714_Home.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="FortBellamy_Poster1">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Iron_Fusion_Flow_Motion_300714_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="FortBellamy_Poster2">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Cucumber_Zest_Furniture_300714_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="FortBellamy_Poster3">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/J_Metal_300714_256x368.dds</SOURCE>
+  </SCREEN>
+</XML>

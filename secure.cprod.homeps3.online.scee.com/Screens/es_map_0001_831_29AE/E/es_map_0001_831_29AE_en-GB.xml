@@ -1,0 +1,66 @@
+<XML>
+  <SCREEN ID="BenchScreen01">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Uproar/BrimstoneRepeater_684x384.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Uproar/OutlawsMagnitudeBundleFemale_684x384.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Uproar/SwyftsGrillagunzBundleFemale_684x384.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Uproar/TauntsRelease_684x384.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="BenchScreen02">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Uproar/BuckfastShotgun_684x384.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Uproar/OutlawsMagnitudeBundleMale_684x384.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Uproar/SwyftsOPSMunitionBundleFemale_684x384.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="BenchScreen03">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Uproar/CarbineRifle_684x384.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Uproar/Credits_684x384.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Uproar/OutlawsOPSMunitionBundleFemale_684x384.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Uproar/SwyftsOPSMunitionBundleMale_684x384.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="BenchScreen04">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Uproar/PrecisionRifle_684x384.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Uproar/Whisperer_684x384.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Uproar/OutlawsGrillagunzBundleMale_684x384.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Uproar/SwyftsMagnitudeBundleFemale_684x384.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="BenchScreen05">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Uproar/MicroCannon_684x384.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Uproar/OutlawsGrillagunzBundleFemale_684x384.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Uproar/SwyftsMagnitudeBundleMale_684x384.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Uproar/Chimera_684x384.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="BenchScreen06">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Uproar/Raider_684x384.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Uproar/OutlawsOPSMunitionBundleMale_684x384.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Uproar/SwyftsGrillagunzBundleMale_684x384.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="BoothScreenOutlaws">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Uproar/BoothBanner_Outlaws_1536x256.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="BoothScreenSwyfts">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Uproar/BoothBanner_Swyfts_1536x256.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HangingScreenOutlaws01">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Uproar/BannerOutlawsMale_256x1024.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HangingScreenOutlaws02">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Uproar/BannerOutlawsFemale_256x1024.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HangingScreenSwyfts01">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Uproar/BannerSwyftsMale_256x1024.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HangingScreenSwyfts02">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/Uproar/BannerSwyftsFemale_256x1024.jpg</SOURCE>
+  </SCREEN>
+</XML>

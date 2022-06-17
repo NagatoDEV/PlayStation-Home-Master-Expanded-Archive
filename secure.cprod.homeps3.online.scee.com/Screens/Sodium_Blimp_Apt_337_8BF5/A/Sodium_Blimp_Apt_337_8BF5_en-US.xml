@@ -1,0 +1,14 @@
+<XML>
+  <SCREEN ID="screen_left">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/SodiumBlimp_BlastersParadise_HOME640x352.mp4</SOURCE>
+    <SOURCE> 	http://scea-home.playstation.net/a.home/mfe/content/Movies/SodiumBlimp_Sodium2Trailer_HOME640x352.mp4</SOURCE>
+    <SOURCE> 	http://scea-home.playstation.net/a.home/mfe/content/Movies/SodiumBlimp_SodiumOne_HOME640x352.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="screen_right">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/SodiumBlimp_Sodium2Trailer_HOME640x352.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/SodiumBlimp_SodiumOne_HOME640x352.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/SodiumBlimp_BlastersParadise_HOME640x352.mp4</SOURCE>
+  </SCREEN>
+</XML>

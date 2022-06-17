@@ -1,0 +1,372 @@
+<XML>
+  <SCREEN ID="SCEA_Hub_VideoScreen_01">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/Secrets_Swimwear_130814_Home.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/Anime_Beach_200814_Home.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/Ajagara_Guardians_and_Golems_270814_Home.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/Foal_Holiday_270814_Home.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/MindPowers_Notakai_270814_Home.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/HatchbackVIS_151.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/VEEMEE_Combined_PromoVideo_720x400_2014-08-20_SCEA.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Play_Billboard_1">
+    <TYPE>IMAGES</TYPE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Mall_Billboard_3">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Lockwood_DoubleTimeBaseballShadowsWhatsNew_091511_486x405.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Mall_Billboard_1">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/SHHD_360x640_nurse.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/SHHD_360x640_pyramid.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/SHHD_360x640_robbie.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Aurora1-3billbord.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Mall_Billboard_2">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Halloween_360x640_warlock.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Lockwood_DoubleTimeBaseballShadowsMaleCloseup_091511_386x684.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Halloween_360x640_witch.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Halloween_360x640_zombie_werewolf.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_3">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Destinations_Panel3_093011v2_684x384.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_8">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/WBR_GreenLanternExtendedCut_US-NTFX_HomePoster.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Billboard_1">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HCV1_103111_512x512.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Billboard_2">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HCV2_103111_512x512.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_7">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Halloween_poster_warlock.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/SkullChair_271011_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/GothicTrench256NSS.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/SHHD_poster_nurse.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/AAA_Alice_cooper_ExcecutionerBundle_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Standard_Posters_Cutteridge_06.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="LocalImages">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Fireworks_Home_billboard_01.jpg</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Fireworks_Home_billboard_02.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_1">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Destinations_Panel1_093011v2_684x384.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_2">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Destinations_Panel2_093011v2_684x384.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_4">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Destinations_Panel4_093011v2_684x384.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_5">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Destinations_Panel5_093011v2_684x384.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_6">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Destinations_Panel6_093011v2_684x384.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Mall_Billboard_4">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Aurora1_3StandardPoster.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Lockwood_DoubleTimeBaseballCardShadowsFemaleCloseup_091511_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Halloween_360x640_warlock.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/SHHD_360x640_nurse.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_9">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/FOX_FamilyGuyS10_US_HomePoster.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_10">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/WBR_HorribleBosses_US_HomePoster.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_11">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/WBR_BatmanYearOne_US_HomePoster.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_12">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/DSN_PiratesOfTheCaribbeanOnStrangerTides_US_HomePoster.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_13">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Pulse_1101_Theater.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_14">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/WBR_HorribleBosses_US_HomePoster.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_15">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/WBR_BatmanYearOne_US_HomePoster.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_16">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Pulse_1101_Theater.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Screen">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/UC3_LandscapeBillboard2_684x384_Week1.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Aurora1-3LandscapeBillboard.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Landscape_Billboard_Cutteridge_02.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/10FreeItems_ScavengerHunt_110111-684.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Lockwood_DoubleTimeBaseballShadowsFemaleOutfits_091511_684x384.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Billboard__1">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HCVListenHome.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/http://scea-home.playstation.net/a.home/mfe/content/Posters/HCVListenHome4.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Billboard__2">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HCVListenHome.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HCVListenHome4.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Billboard__3">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HomeRules_ListenAtHome_051010_512x512.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Billboard__4">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HomeRules_ListenAtHome_051010_512x512.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Hub_BillboardXL_01">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Photobooth_200814_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Coffee_Tables_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MyOffice_Batch01_A_2014-08-13_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Golem_272014_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Fridges_02_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Notakai_272014_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/FoalHoliday_270814_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Anim_Bundle_684.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Hub_BillboardXL_02">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/TeamLKWD_Clothing_130814_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Raveparty_II_Billboards_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/FigmentPowersuits_200814_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Sailorgirl_200814_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/3DPrinter_Batch032_set01_2014-08-27_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/WaterGun_Batch001_A_2014-08-20_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/AQUA_III_Billboard_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/PhoenixGuardians_272014_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/DreamAdventureLKWD_Life_684x384_270814.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MindPowers_272014_684x384.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Hub_Poster_01">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Raveparty_Poster_01_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Cybergoth_Industrial_Gap_060814_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/SupercarLMOs_Batch002_G_2014-07-30_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/TO1886_HOME_256X368_001A.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Drop_Science_Newnew_130814_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/SkatePark_Batch001_D_2014-08-06_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Strictly_Sparkle_02_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Hub_Poster_02">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/2kGiveawayPoster_2014-07-30_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/StackGenius1_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Strictly_Sparkle_01_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Cybergoth_Recolours_V3_060814_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Hub_Poster_03">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Setttee_02_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Bakenrek_Greasepan_Poster_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/AltamarGold_Poster01_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Hub_Poster_04">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Anime_Animal_Attire_090714_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Jumpstyle_160714_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/VeemeeRollingSales_Batch025_A_2014-07-30_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/00s_256x368_B.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Hub_Poster_05">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Fridge_01_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Cucumber_Zest_Furniture_300714_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Animanga3D_MasksFem_073014_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Mermaids_300714_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/DT_Yoga_300714_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Billabong_Batch001_E_2014-07-30_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Hub_Poster_06">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/J_Metal_300714_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Cha-cha_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/3DPrinter_Batch029_A_2014-07-30_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Raveparty_Poster_02_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Drey_Halcyon_Days_060814_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/StackGenius2_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Hub_Poster_07">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Iron_Fusion_Flow_Motion_300714_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Lifestyle2_256.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/FoalPhotoCrazePosePack_130814_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Strictly_Sparkle_02b_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Hub_Poster_08">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HighSchool_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Element3_Batch004_A_2014-07-23_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Fridge_03_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Azdael_Brokenspell_Poster_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Hub_Poster_09">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Emoticon_Batch01_256x368_C_2014-07-02.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/ZombieGroupAnimationPack_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/GroupInteractions_Batch001_256x368_B_2014-07-23.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Element3_Batch004_H_2014-07-23_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Hub_Poster_10">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Billabong_Batch013_G_2014-07-16_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Fort_Bellamy_Coming_Soon_230714_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/VeemeeRollingSales_Batch025_C_2014-07-30_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/PlasticSoldiers_Batch001_256x368_C_2014-07-23.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Apartment_Bundle_256.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/SupercarLMOs_Batch002_C_2014-07-30_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Hub_Poster_11">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MyGymApartment_Batch01_C_2014_06_25_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Secrets_Bodycon_160714_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Boutique_Poster_256.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/2kGiveawayPoster_2014-07-30_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Setttee_02_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Bakenrek_Greasepan_Poster_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/00s_256x368_B.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Hub_Poster_12">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/FashionableHair_Batch002_256x368_A_2014-07-16.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Foal_Festival_230714_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Cucumber_Zest_Furniture_300714_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Animanga3D_MasksFem_073014_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Mermaids_300714_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Setttee_04_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Hub_Poster_13">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/TSPG_256.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Ostrich_Poster_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Figment_Raceday_160714_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Kawaii_Poster01_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Cha-cha_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/3DPrinter_Batch029_A_2014-07-30_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Hub_Poster_14">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Fridge_01_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Iron_Fusion_Flow_Motion_300714_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Strictly_Sparkle_01b_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Cybergoth_Industrial_Gap_060814_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Fridge_03_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Hub_Poster_15">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/3DPrinter_Batch027_A_2014-07-16_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HT_CommunityFeatureUpdate_Poster_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Lifestyle2_256.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HighSchool_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Hub_Poster_16">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/DT_Yoga_300714_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/AltamarGold_Poster02_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Dream_Adventure_130814_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/TeamLKWD_Clothing_130814_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Hub_Poster_17">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Dream_Adventure_Coming_Soon_230714_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/elemental_masters_7-23-14_256X368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Bakenrek_Greasepan_Poster_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Raveparty_Poster_01_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Hub_Poster_18">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Cucumber_Zest_Furniture_300714_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/SupercarLMOs_Batch002_G_2014-07-30_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/SupercarLMOs_Batch002_C_2014-07-30_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/AQUA_II_Poster03_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MClothing_Bundle_256.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Hub_Poster_19">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Ostrich_Poster_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Dream_Adventure_Coming_Soon_230714_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Animanga3D_MasksFem_073014_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Mermaids_300714_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Hub_Poster_20">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Cybergoth_Recolours_V3_060814_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/StackGenius1_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/TO1886_HOME_256X368_001A.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Drop_Science_Newnew_130814_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/SecretsSwimwear_130814_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Hub_Exclusive_Poster_Screen">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Emerald-Sapphire-Ruby256.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/GoldClock256.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/GoldSkull256.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/GoldWatch256.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/SilverKnuckles256.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Hub_Games_Poster_Screen">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Clusterpuck_04.03.12_256.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Sodium2_Payback-Rewards_10272011_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Sodium2_Payback-Rivals_10272011_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/CoreSpacePoster_SuperheroMadhouse_160412_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Hub_Estates_Poster_Screen">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HBS_IslandBungalow_256x368_B.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HiddenOak_StandardB.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MtOlympus_Standard.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/hillside_030512_256.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/moonforest_030512_256.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/plum_030512_256.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/nDreams_Blueprint_basic_256.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Hub_Threads_Poster_Screen">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Copper256.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/StickupKid256.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/PopDivaBundle-256.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Poster_4_Female.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Poster_5_Female.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Poster_6_Female.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Hub_TeleporterScreen">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Teleporter_Sign_110311.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Hub_ActivitiesBoard">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/ActivityBoard.dds</SOURCE>
+  </SCREEN>
+</XML>

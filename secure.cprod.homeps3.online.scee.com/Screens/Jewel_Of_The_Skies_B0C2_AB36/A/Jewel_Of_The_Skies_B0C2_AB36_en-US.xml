@@ -1,0 +1,10 @@
+<XML>
+  <SCREEN ID="market_screen">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/Pegasus_Demon_Horse_640x352.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/RedRidingHood_100713_640x352.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/JOTS_Walkthrough_Home_640x352.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/JOTS_Promo_Video_Home_640x352.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/KingdomHaven_Home640x352.mp4</SOURCE>
+  </SCREEN>
+</XML>

@@ -1,0 +1,10 @@
+<XML>
+  <SCREEN ID="Screen_Hub">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/RCALL4ONErpTRLRv10_720_Profile3_001.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="RCHOMEVideo">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/RCALL4ONErpTRLRv10_720_Profile3_001.mp4</SOURCE>
+  </SCREEN>
+</XML>

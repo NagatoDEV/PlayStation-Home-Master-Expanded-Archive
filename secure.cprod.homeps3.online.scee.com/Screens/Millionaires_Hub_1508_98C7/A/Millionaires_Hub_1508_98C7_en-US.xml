@@ -1,0 +1,30 @@
+<XML>
+  <SCREEN ID="Dream_Hub_Screen_Video">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/LKWD_Life_Release_8_070514_Home.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Dream_Hub_Screen_1">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/LKWD_Life_Release_DreamHideaway_256X368_260314.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Dream_Hub_Screen_2">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/LKWD_Life_Release_V2_356X512_120314.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Dream_Hub_Screen_3">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/LKWD_Life_Release_V1_356X512_120314.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Dream_Hub_Screen_4">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/LKWD_Life_Release_7_300414_356x512.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Dream_Hub_Screen_5">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/LKWD_Life_Release_DreamIsland_356X512_260314.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Dream_Hub_Screen_6">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/LKWD_Life_Release_V4_356X512_120314.dds</SOURCE>
+  </SCREEN>
+</XML>

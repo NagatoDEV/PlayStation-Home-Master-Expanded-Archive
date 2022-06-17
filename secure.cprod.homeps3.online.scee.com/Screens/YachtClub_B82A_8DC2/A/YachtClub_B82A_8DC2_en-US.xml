@@ -1,0 +1,58 @@
+<XML>
+  <SCREEN ID="DB_YC_VideoScreen_1">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/GCLBP2Create-Profile3.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/GCStarhawk-Profile3.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/SDCC11Journey-Profile3.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/BioshockInfiniteInterview-Profile3.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/GCUncharted-Profile3.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="DB_YC_Wakeboard_Screen">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/wakeboard_Screen.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="DB_YC_Taxi_Screen">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/WaterTaxi_Screen.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Screen_YC_Access">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/yc_item_screen1.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="DB_YC_Gate_LogoScreen">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Billabong_Batch006_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="DB_YC_patio_right_1">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Billabong_Batch006_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="DB_YC_patio_right_2">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Billabong_Batch006_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="DB_YC_patio_left_1">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Billabong_Batch006_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="DB_YC_patio_left_2">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Billabong_Batch006_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="DB_YC_path">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Billabong_Batch006_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="DB_YC_stairs_right">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Billabong_Batch006_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="DB_YC_stairs_left">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Billabong_Batch006_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Screen_MD_game_Access">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/MetalDetector_Screen.dds</SOURCE>
+  </SCREEN>
+</XML>
