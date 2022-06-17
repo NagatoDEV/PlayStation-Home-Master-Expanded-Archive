@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This file was automatically generated on 8/26/13 2:23:45 PM-->
+<commerce_point>
+  <node type="objects">
+    <header>
+      <background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/lootstore_background.png</background>
+      <palette type="black" />
+    </header>
+	<object>EB2F3652-08F94C6C-A2A2585F-580E852E</object><!--LOOT™ Premium RadioIO Rental Pass  Thirty Days-->
+  </node>
+</commerce_point>
