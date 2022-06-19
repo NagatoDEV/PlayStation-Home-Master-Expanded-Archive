@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='/styles/rss.xsl'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>Example Media RSS Feed</title>
+        <description>Example Media RSS feed served from an HTTP server.</description>
+		<item>
+            <media:title type="plain">1102dv_hockey_plane_crash_352x198_mono.mp4</media:title>
+            <media:description type="plain">1102dv_hockey_plane_crash_352x198_mono.mp4</media:description>
+            <media:content url="http://scea-home.playstation.net/a.home/mfe/content/Movies/Stats_Sports_Highlights/1102dv_hockey_plane_crash_352x198_mono.mp4" medium="video" duration="3.2"/>
+            <media:thumbnail url="http://homeps3-content.online.scee.com:10010/Alpha/Tutorials/ScreenTutorial/screencontent/images/image1.dds" width="60" height="60" />
+        </item>
+		<item>
+            <media:title type="plain">1103dv_manning_injury_352x198_mono.mp4</media:title>
+            <media:description type="plain">1103dv_manning_injury_352x198_mono.mp4</media:description>
+            <media:content url="http://scea-home.playstation.net/a.home/mfe/content/Movies/Stats_Sports_Highlights/1103dv_manning_injury_352x198_mono.mp4" medium="video" duration="3.2"/>
+            <media:thumbnail url="http://homeps3-content.online.scee.com:10010/Alpha/Tutorials/ScreenTutorial/screencontent/images/image1.dds" width="60" height="60" />
+        </item>
+		<item>
+            <media:title type="plain">1103dv_alabama_lsu_fans_352x198_mono.mp4</media:title>
+            <media:description type="plain">11103dv_alabama_lsu_fans_352x198_mono.mp4</media:description>
+            <media:content url="http://scea-home.playstation.net/a.home/mfe/content/Movies/Stats_Sports_Highlights/1103dv_alabama_lsu_fans_352x198_mono.mp4" medium="video" duration="3.2"/>
+            <media:thumbnail url="http://homeps3-content.online.scee.com:10010/Alpha/Tutorials/ScreenTutorial/screencontent/images/image1.dds" width="60" height="60" />
+        </item>
+		<item>
+            <media:title type="plain">1101dv_rick_hendrick_plane_crash_352x198_mono.mp4</media:title>
+            <media:description type="plain">1101dv_rick_hendrick_plane_crash_352x198_mono.mp4</media:description>
+            <media:content url="http://scea-home.playstation.net/a.home/mfe/content/Movies/Stats_Sports_Highlights/1101dv_rick_hendrick_plane_crash_352x198_mono.mp4" medium="video" duration="3.2"/>
+            <media:thumbnail url="http://homeps3-content.online.scee.com:10010/Alpha/Tutorials/ScreenTutorial/screencontent/images/image1.dds" width="60" height="60" />
+        </item>
+		<item>
+            <media:title type="plain">1031dv_larussa_letterman_352x198_mono.mp4</media:title>
+            <media:description type="plain">1031dv_larussa_letterman_352x198_mono.mp4</media:description>
+            <media:content url="http://scea-home.playstation.net/a.home/mfe/content/Movies/Stats_Sports_Highlights/1031dv_larussa_letterman_352x198_mono.mp4" medium="video" duration="3.2"/>
+            <media:thumbnail url="http://homeps3-content.online.scee.com:10010/Alpha/Tutorials/ScreenTutorial/screencontent/images/image1.dds" width="60" height="60" />
+        </item>
+		<item>
+            <media:title type="plain">1031dv_lsu_bama_p_352x198_mono.mp4</media:title>
+            <media:description type="plain">1031dv_lsu_bama_p_352x198_mono.mp4</media:description>
+            <media:content url="http://scea-home.playstation.net/a.home/mfe/content/Movies/Stats_Sports_Highlights/1031dv_lsu_bama_p_352x198_mono.mp4" medium="video" duration="3.2"/>
+            <media:thumbnail url="http://homeps3-content.online.scee.com:10010/Alpha/Tutorials/ScreenTutorial/screencontent/images/image1.dds" width="60" height="60" />
+        </item>	
+    </channel>
+</rss>
