@@ -1,0 +1,10 @@
+<XML>
+  <SCREEN ID="Round_Screen">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/ACAH_DFM_PShome-Profile3.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="LCD">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/PacmanCEDX_3rd_final_ESRB_PShome.mp4</SOURCE>
+  </SCREEN>
+</XML>

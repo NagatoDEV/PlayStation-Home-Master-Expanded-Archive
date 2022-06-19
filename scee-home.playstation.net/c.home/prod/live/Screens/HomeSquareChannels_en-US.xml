@@ -1,0 +1,145 @@
+<XML>
+  <SCREEN ID="PlazaVideo3">
+    <TYPE>VIDEO</TYPE>
+  </SCREEN>
+  <SCREEN ID="LocalVideo">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/secblackvid.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Screen_1">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/Jumbo_6032011_profile3.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Screen_Listen">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/secblackvid.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Play_Billboard_1">
+    <TYPE>IMAGES</TYPE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Mall_Billboard_3">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HeavyWater_TribalTattoos_060211_1024x1024.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Mansion_Garage_512x512.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Mall_Billboard_1">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Mansion_Garage_368x684.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Mall_Billboard_2">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HeavyWater_TribalTattoos1_060211_384x684.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_3">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HWInk_Panel_3.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_8">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/BlastersParadise_TabletopShot2_041811_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Billboard_1">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HomeRules_ListenAtHome_051010_512x512.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Billboard_2">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HVCbillboard1.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HVCbillboard4.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_7">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HeavyWater_TribalTattoos1_060211_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="LocalImages">
+    <TYPE>IMAGES</TYPE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_1">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HWInk_Panel_1.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_2">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HWInk_Panel_2.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_4">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HWInk_Panel_4.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_5">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HWInk_Panel_5.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_6">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HWInk_Panel_6.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Mall_Billboard_4">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HeavyWater_TribalTattoos1_060211_384x684.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Mansion_Garage_368x684.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_9">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/SMT_DriveAngry_US_HomePoster.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_10">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/SPE_GreenHornetThe_US_HomePoster.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_11">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/WBR_RiteThe_US-NTFX_HomePoster.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_12">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HeavyWater_TribalTattoos1_060211_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_13">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/SMT_DriveAngry_US_HomePoster.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_14">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/SPE_GreenHornetThe_US_HomePoster.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_15">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/WBR_RiteThe_US-NTFX_HomePoster.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Billboard_16">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/BlastersParadise_TabletopShot2_041811_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Theater_Screen">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/BlastersParadise_TabletopShot2_041811_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Resistance3_Demo_051811_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/RatchetnClank_All4One_052011_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Uncharted3_MPBETA_053011_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Conspiracy_Dastardly_060211_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Conspiracy_IHaveNo_060211_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Conspiracy_Pixelated_060211_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Conspiracy_VintageCommunicator_060211_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Uncharted3_Preorder_060311_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Mansion_Garage_684x384.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Billboard__1">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HCVListenHome.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/http://scea-home.playstation.net/a.home/mfe/content/Posters/HCVListenHome4.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Billboard__2">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HCVListenHome.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HCVListenHome4.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Billboard__3">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HomeRules_ListenAtHome_051010_512x512.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Scea_Plaza_Billboard__4">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HomeRules_ListenAtHome_051010_512x512.dds</SOURCE>
+  </SCREEN>
+</XML>

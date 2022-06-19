@@ -1,0 +1,31 @@
+<XML>
+  <SCREEN ID="GSVideoScreen02">
+    <TYPE>MEDIARSS</TYPE>
+    <SOURCE LINK="http://www.us.playstation.com">http://scea-home.playstation.net/a.home/mfe/content/Movies/SCEA_GameSpace_2_Schedule.xml</SOURCE>
+  </SCREEN>
+  <SCREEN ID="GSVideoScreen01">
+    <TYPE>MEDIARSS</TYPE>
+    <SOURCE LINK="http://www.us.playstation.com">http://scea-home.playstation.net/a.home/mfe/content/Movies/SCEA_GameSpace_1_Schedule.xml</SOURCE>
+  </SCREEN>
+  <SCREEN ID="GSImageAdvert03">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Mansion_Garage_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Uncharted3_Preorder_060311_684x384.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="GSImageAdvert02">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Conspiracy_Dastardly_060211_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Conspiracy_IHaveNo_060211_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Conspiracy_Pixelated_060211_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Conspiracy_VintageCommunicator_060211_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/BlastersParadise_TabletopShot2_041811_684x384.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="GSImageAdvert01">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Lockwood_CucumberTurquoise01_042011_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Lockwood_CucumberTurquoise02_042011_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Lockwood_CucumberTurquoise03_042011_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HeavyWater_TribalTattoos_060211_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/BlastersParadise_TabletopShot2_041811_684x384.dds</SOURCE>
+  </SCREEN>
+</XML>

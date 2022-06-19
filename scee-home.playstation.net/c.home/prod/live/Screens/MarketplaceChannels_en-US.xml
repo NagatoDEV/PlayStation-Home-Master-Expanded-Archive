@@ -1,0 +1,59 @@
+<XML>
+  <SCREEN ID="MPVideoScreen01">
+    <TYPE>MEDIARSS</TYPE>
+    <SOURCE LINK="http://www.us.playstation.com/">http://scea-home.playstation.net/a.home/mfe/content/Movies/SCEA_Mall_Schedule.xml</SOURCE>
+  </SCREEN>
+  <SCREEN ID="MPImagePoster01">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Lockwood_CucumberOrnate01_042011_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Lockwood_CucumberOrnate02_042011_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Lockwood_CucumberOrnate03_042011_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Lockwood_CucumberOrnate04_042011_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Lockwood_CucumberOrnate05_042011_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HeavyWater_TribalTattoos1_060211_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/BlastersParadise_TabletopShot2_041811_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Mansion_Garage_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="MPImagePoster02">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Lockwood_CucumberOrnate04_042011_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Lockwood_CucumberOrnate01_042011_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HeavyWater_TribalTattoos1_060211_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/BlastersParadise_TabletopShot2_041811_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Mansion_Garage_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="MPImagePoster03">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HeavyWater_TribalTattoos1_060211_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/BlastersParadise_TabletopShot2_041811_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Lockwood_CucumberOrnate02_042011_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Lockwood_CucumberOrnate05_042011_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Mansion_Garage_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="MPImagePoster04">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HeavyWater_TribalTattoos1_060211_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/BlastersParadise_TabletopShot2_041811_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Lockwood_CucumberOrnate05_042011_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/VUDU_Potter_042111_286x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Mansion_Garage_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Screen_EA">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/EA/Fight_Night_01.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/EA/Fight_Night_02.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/EA/Fight_Night_03.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/EA/Fight_Night_04.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/EA/Fight_Night_05.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/EA/Fight_Night_06.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/EA/Fight_Night_07.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/EA/Fight_Night_08.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/EA/Madden_01.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/EA/Madden_02.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/EA/Madden_03.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/EA/Madden_04.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/EA/NBA_Live_01.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/EA/NBA_Live_02.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/EA/NBA_Live_03.dds</SOURCE>
+  </SCREEN>
+</XML>
