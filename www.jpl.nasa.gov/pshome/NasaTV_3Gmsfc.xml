@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='/styles/rss.xsl'?>
+<!-- SCREEN ID="Misc_Screen_Test" -->
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>NASA_TV_3G</title>
+        <description>NASA_TV_3G</description>
+        <item>
+            <media:title type="plain">NASA_TV_3G</media:title>
+            <media:description type="plain">NASA_TV_3G</media:description>
+            <media:content url="http://liveips.nasa.gov.edgesuite.net/msfc/3G.m3u8" medium="video" duration="120" />
+        </item>
+    </channel>
+</rss>
