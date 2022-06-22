@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<commerce_point>
+	<node type="objects">
+      <header>
+        <name lang="en-US" default="true">Dragon's Green Shoppe</name>
+		<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/dragonsgreen_bg_scea.dds</background>
+	  </header>	
+		<object>43F03BA0-E05A4197-8E704671-D1F64C4C</object>
+		<object>14511AA6-2BBB451D-9C54190C-7EFBC74C</object>
+		<object>3DEAB56F-C952419F-9450A2AE-E4B4227F</object>
+		<object>C5DE3B4B-36524D34-95BEEBF9-1BFEEF68</object>
+    </node>
+</commerce_point>
