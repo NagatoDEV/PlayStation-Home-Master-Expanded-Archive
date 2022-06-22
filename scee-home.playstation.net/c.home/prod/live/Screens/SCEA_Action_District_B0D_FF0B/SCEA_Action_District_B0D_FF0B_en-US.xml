@@ -1,0 +1,62 @@
+<XML>
+  <SCREEN ID="SCEA_Act_VideoScreen_01">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/Hatchback_VIS_42_v01.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/Hatchback_Island_Bungalow_v02.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/NP-final-60-720.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/Safari.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/sodium2_legendaryracer_2_screen.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Act_Poster_01">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/raver_022912_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/5.5_itemset_poster_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/bladewalker_poster_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Poster_2_costumes.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Poster_3_costumes.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Lockwood_Kubwa_180412_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Act_Poster_02">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/BeatsByDre_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Lockwood_Monroe_042512_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Lockwood_AMiller_042512_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HBS_IslandBungalow_256x368_B.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/secretagent_022812_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/EarthCompanion_MechPets01_042512_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Act_Poster_03">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Lockwood_Kiboko_180412_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Sodium_legendaryracerfem_041812_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Sodium_legendaryracermale_041812_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/5.5_itemset_poster_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/bladewalker_poster_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Poster_2_costumes.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Act_Poster_04">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/BeatsByDre_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Lockwood_Monroe_042512_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Lockwood_AMiller_042512_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HBS_IslandBungalow_256x368_B.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/secretagent_022812_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Sodium_DoubleXP_250412_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Act_Poster_05">
+    <TYPE>IMAGES</TYPE>
+  </SCREEN>
+  <SCREEN ID="SCEA_ Act_BillboardXL_01">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/BeatsByDre_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Lockwood_MonroeMiller_042512_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HBS_IslandBungalow_684x384_B.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/secretagent_022812_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Sodium_DoubleXP_250412_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Lockwood_Kubwa_180412_684x384.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Activity_board_Screen">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/ActivityBoard.dds</SOURCE>
+  </SCREEN>
+</XML>
