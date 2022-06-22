@@ -1,0 +1,50 @@
+<XML>
+  <SCREEN ID="SCEA_Cas_VideoScreen_01">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/HBS_VIS44_v02-_640x352_900kbps.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/SHMpromo_SCEA_640x352.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/NP-final-60-720.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/iQVitav16-H.264_29.97-_640x352_900kbps.mp4</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/HBS_Midway3_v03.1-_640x352_900kbps.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_ Cas_Billboard_01">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Lockwood_MonroeMiller_042512_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/HBS_IslandBungalow_684x384_B.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/gothic3_022112_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/CoreSpacePoster_SuperheroMadhouse_160412_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/masks_groupshot_050312_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/CoreSpacePoster_BillabongBatch010_160412_684x384</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Cas_PosterLarge_01">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/CashCarnival_04.13_256.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Auras256.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/DREY_Female_160512_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/DREY_Male_160512_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/salon_032012_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Cas_PosterSet_05">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/CoreSpacePoster_SuperheroMadhouse_160412_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/masks_groupshot_050312_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/CoreSpacePoster_BillabongBatch010_160412_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/gothic3_022112_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEA_Cas_PosterSet_06">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/CashCarnival_04.13_256.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/Auras256.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/DREY_Female_160512_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/DREY_Male_160512_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/salon_032012_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Activity_Board_Casual">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/ActivityBoard.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Activity_Board_Casual_Old">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/ActivityBoard.dds</SOURCE>
+  </SCREEN>
+</XML>
