@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='/styles/rss.xsl'?>
+<!-- SCREEN ID="HTTP-OnDemand_Test" -->
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>Wowza_Live</title>
+        <description>Wowza_Live</description>
+        <item>
+            <media:title type="plain">Now_Live</media:title>
+            <media:description type="plain">Wowza_Live</media:description>
+            <media:content url="http://scea-home.playstation.net/a.home/mfe/content/Posters/SlyCoop_684x384.dds" medium="image" duration="5" />
+            <!-- <media:content url="http://ios.nowlive.com.edgesuite.net/PS3home2.m3u8" medium="video" duration="120" /> -->
+        </item>
+        <item>
+            <media:title type="plain">Now_Live</media:title>
+            <media:description type="plain">Wowza_Live</media:description>
+            <media:content url="http://scea-home.playstation.net/a.home/mfe/content/Posters/SFXTek_684x384.dds" medium="image" duration="5" />
+            <!-- <media:content url="http://ios.nowlive.com.edgesuite.net/PS3home2.m3u8" medium="video" duration="120" /> -->
+        </item>
+        <item>
+            <media:title type="plain">Now_Live</media:title>
+            <media:description type="plain">Wowza_Live</media:description>
+            <media:content url="http://scea-home.playstation.net/a.home/mfe/content/Posters/AC3_684x384.dds" medium="image" duration="5" />
+            <!-- <media:content url="http://ios.nowlive.com.edgesuite.net/PS3home2.m3u8" medium="video" duration="120" /> -->
+        </item>
+        <item>
+            <media:title type="plain">Now_Live</media:title>
+            <media:description type="plain">Wowza_Live</media:description>
+            <media:content url="http://scea-home.playstation.net/a.home/mfe/content/Posters/Allstarsbattle_684x384.dds" medium="image" duration="5" />
+            <!-- <media:content url="http://ios.nowlive.com.edgesuite.net/PS3home2.m3u8" medium="video" duration="120" /> -->
+        </item>
+        <item>
+            <media:title type="plain">Now_Live</media:title>
+            <media:description type="plain">Wowza_Live</media:description>
+            <media:content url="http://scea-home.playstation.net/a.home/mfe/content/Posters/BL2_684x384.dds" medium="image" duration="5" />
+            <!-- <media:content url="http://ios.nowlive.com.edgesuite.net/PS3home2.m3u8" medium="video" duration="120" /> -->
+        </item>
+    </channel>
+</rss>
