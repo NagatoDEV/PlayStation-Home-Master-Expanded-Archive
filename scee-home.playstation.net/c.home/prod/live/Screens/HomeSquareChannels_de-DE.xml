@@ -1,0 +1,199 @@
+<XML>
+  <SCREEN ID="HSTheatreTextBanner01">
+    <TYPE>BANNER</TYPE>
+    <SOURCE link="" textHeight="100" r="0" g="0" b="0">
+    </SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSTheatreTextBanner02">
+    <TYPE>BANNER</TYPE>
+    <SOURCE link="" textHeight="40" r="0" g="0" b="0">
+    </SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSTheatreTextBanner03">
+    <TYPE>BANNER</TYPE>
+    <SOURCE link="" textHeight="40" r="0" g="0" b="0">
+    </SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSTheatreTextBanner04">
+    <TYPE>BANNER</TYPE>
+    <SOURCE link="" textHeight="40" r="0" g="0" b="0">
+    </SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSTheatreTextBanner05">
+    <TYPE>BANNER</TYPE>
+    <SOURCE link="" textHeight="40" r="0" g="0" b="0">
+    </SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSTheatreTextBanner06">
+    <TYPE>BANNER</TYPE>
+    <SOURCE link="" textHeight="40" r="0" g="0" b="0">
+    </SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSTheatreTextBanner07">
+    <TYPE>BANNER</TYPE>
+    <SOURCE link="" textHeight="40" r="0" g="0" b="0">
+    </SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSTheatreTextBanner08">
+    <TYPE>BANNER</TYPE>
+    <SOURCE link="" textHeight="40" r="0" g="0" b="0">
+    </SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSTheatreTextBanner09">
+    <TYPE>BANNER</TYPE>
+    <SOURCE link="" textHeight="40" r="0" g="0" b="0">
+    </SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSTheatreTextBanner10">
+    <TYPE>BANNER</TYPE>
+    <SOURCE link="" textHeight="40" r="0" g="0" b="0">
+    </SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSVideoScreen03">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_30_09/telepad.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSVideoScreen01">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_23_08/DragonGreen_German-Home_medium.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSVideoScreen02">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_14_09/LBP2reveal_final_M-Home_largeRSS.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSTheatreExternalImagePoster01">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_27_05/product_poster_new.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_03_06/HomePoster_ModNationRacersMiniGame_DE.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSTheatreExternalImagePoster02">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_11_05/LBP_Poster_AvailNow_DE.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_27_05/Home-Poster-JJ-Colour-DE.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_10_06/Home_Poster_3D_Game_Collection_OFLAC.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSTheatreExternalImagePoster03">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_29_04/MN_Chal_Home_Poster_GER.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_29_04/product_portrait_download_tv.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_11_05/LBP_Poster_AvailNow_DE.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_20_05/MINIS_POSTER_GER_AW.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSTheatreExternalImagePoster04">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_20_05/MINIS_POSTER_GER_AW.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_27_05/Home-Poster-JJ-Colour-DE.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_03_06/HomePoster_ModNationRacersMiniGame_DE.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_10_06/Home_Poster_3D_Game_Collection_OFLAC.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSTheatreExternalImagePoster05">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_29_04/MN_Chal_Home_Poster_GER.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_29_04/product_portrait_download_tv.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_11_05/Home_Poster_feel_for_two_usk.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_11_05/LBP_Poster_AvailNow_DE.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_20_05/MINIS_POSTER_GER_AW.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSTheatreExternalImagePoster06">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_20_05/MINIS_POSTER_GER_AW.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_27_05/product_poster_new.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_10_06/Home_Poster_3D_Game_Collection_OFLAC.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSTheatreExternalImagePoster07">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_11_05/LBP_Poster_AvailNow_DE.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_27_05/Home-Poster-JJ-Colour-DE.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSTheatreExternalImagePoster08">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_09_09/Sodium_Furniture_SCEE_Speaker.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_09_09/Sodium_Furniture_SCEE_Lamp.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSImagePoster01">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_27_05/product_poster_new.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_03_06/HomePoster_ModNationRacersMiniGame_DE.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_10_06/Home_Poster_3D_Game_Collection_OFLAC.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSImagePoster03">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_27_05/LBP_Poster_AvailNow_DE.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_27_05/MINIS_POSTER_GER_AW.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_27_05/MN_Chal_Home_Poster_GER.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSImagePoster02">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_29_04/product_portrait_download_tv.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_11_05/LBP_Poster_AvailNow_DE.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_11_05/Home_Poster_feel_for_two_usk.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_20_05/MINIS_POSTER_GER_AW.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HS2NearBowling">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_30_09/veemee.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HS2NearCinema">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/Female_Long_Hair_Small_SCEE_RECODE.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/Male_Long_Hair_Small_SCEE_RECODE.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/SFRBT2_CoreSpacesPoster_RECODE.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HS2NearExit">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/billabongStoreWin_010_EN.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/billabongStoreWin_009_EN.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/billabongStoreWin_008_EN.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/billabongStoreWin_007_EN.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/billabongStoreWin_006_EN.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/SFRBT2_CoreSpacesPoster_RECODE.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HS2NearHarbour">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_14_09/Cauldron_Male.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_14_09/Cauldron_Female.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_14_09/Cauldron.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HS2MarketplaceEntrance1">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/billabongStoreWin_010_EN.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/billabongStoreWin_009_EN.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/billabongStoreWin_008_EN.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/billabongStoreWin_007_EN.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/billabongStoreWin_006_EN.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HS2MarketplaceEntrance2">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_14_09/Cauldron_Male.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_14_09/Cauldron_Female.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_14_09/Cauldron.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSTheatreExternalPoster02">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/machete_poster.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSTheatreExternalPoster03">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_14_09/Home-Poster-DC-Universe.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/SFRBT2_CoreSpacesPoster.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSTheatreExternalPoster04">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/tangled_poster.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSTheatreExternalPoster05">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/sodium.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/priest_poster.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/SFRBT2_CoreSpacesPoster_RECODE.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_14_09/Home-Poster-DC-Universe.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSTheatreExternalPoster06">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_16_09/YT_PSHome_Poster.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSTheatreExternalPoster07">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_14_09/CostumeQUestHomePoster_Cinema_REOCDE.jpg</SOURCE>
+  </SCREEN>
+</XML>
