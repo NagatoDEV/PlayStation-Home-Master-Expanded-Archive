@@ -1,0 +1,163 @@
+<XML>
+  <SCREEN ID="MPVideoScreen01">
+    <TYPE>MEDIARSS</TYPE>
+    <SOURCE LINK="http://eu.playstation.com">http://scee-home.playstation.net/e.home/mfe/content/2010_20_05/minimubi_de.xml</SOURCE>
+  </SCREEN>
+  <SCREEN ID="MPExtVideoScreen">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_14_09/Cauldron_Promo_sony_ident_disclaimer-Home_large.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="MPImagePoster01">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_20_05/MINIS_POSTER_GER_AW.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_27_05/locogoods1.png</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_27_05/locogoods2.png</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_27_05/locogoods3.png</SOURCE>
+  </SCREEN>
+  <SCREEN ID="MPImagePoster02">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_11_05/LBP_Poster_AvailNow_DE.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_03_06/HomePoster_ModNationRacersMiniGame_DE.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="MPImagePoster03">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_29_04/MN_Chal_Billboard_Poster_UK.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_06_05/monkey.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_11_05/LBP_Poster_AvailNow_DE.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_20_05/MINIS_POSTER_GER_AW.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="MPImagePoster04">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_03_06/bs2_home_256x368_helmet_shirt.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_03_06/bs2_home_256x368_furniture.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_03_06/bs2_home_256x368_bouncer.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_03_06/bs2_home_256x368_apt.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="MPVideoScreen02">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2009_06/PS_Home_PAIN_BD_launch_billboard_ENGLISH.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2009_06/PS_Home_PAIN_BD_launch_billboard_FRENCH.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2009_06/PS_Home_PAIN_BD_launch_billboard_GERMAN.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2009_06/PS_Home_PAIN_BD_launch_billboard_ITALIAN.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2009_06/PS_Home_PAIN_BD_launch_billboard_SPANISH.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="MP_Alter_Ego">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_09_09/pos_c_eu0000.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_09_09/pos_c_eu0002.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_09_09/pos_c_eu0003.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_16_09/100908_Locogoods11.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="MP_Estates_1">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/SFRGT2_ApartmentPoster_RECODE.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="MP_Estates_2">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_17_06/NeptuneSuite3.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_17_06/NeptuneSuite2.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_17_06/NeptuneSuite1.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="MP_Threads">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/Male_Long_Hair_Small_SCEE_RECODE.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/Female_Long_Hair_Small_SCEE_RECODE.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="MP_Stuff">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_09_09/Brimstone_Poker1.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_09_09/Brimstone_Poker2.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="MP_Deco">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_09_09/Sodium_Furniture_SCEE_Speaker.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_09_09/Sodium_Furniture_SCEE_Lamp.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_09_09/Sodium_Furniture_SCEE_Group.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="MP_threads2">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_17_06/bs2_home_256x368_bouncer.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_17_06/locogoods1.png</SOURCE>
+  </SCREEN>
+  <SCREEN ID="MP_V_Store">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/tovsDynamicPoster_003_EN.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/tovsDynamicPoster_002_EN.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/tovsDynamicPoster_001_EN.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/tovsDynamicPoster_004_EN.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/tovsDynamicPoster_005_EN.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="MPNearEntrance">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_14_09/Cauldron_Male.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_14_09/Cauldron_Female.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_14_09/Cauldron.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="MPNearScreen">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_23_08/sodium.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/SFRBT2_CoreSpacesPoster.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="MPNearHarbour">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/Female_Long_Hair_Small_SCEE_RECODE.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/Male_Long_Hair_Small_SCEE_RECODE.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSMarketplaceEntrance1">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2009_08/MS_Apt_Clothing_tr_Eng.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_17_06/Pool_poster_coming_soon_EN.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_17_06/darts_poster_coming_soon_EN.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HSMarketplaceEntrance2">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_17_06/bs2_home_256x368_apt.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_17_06/AlterEgo-WorldCup.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="MP_EX_1">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/Male_Long_Hair_Small_SCEE_RECODE.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="MP_EX_2">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_14_09/tovsDynamicPoster_003_EN.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_14_09/tovsDynamicPoster_002_EN.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_14_09/tovsDynamicPoster_001_EN.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_14_09/tovsDynamicPoster_004_EN.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_14_09/tovsDynamicPoster_005_EN.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="MP_EX_3">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/Female_Long_Hair_Small_SCEE_RECODE.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="MP_Billabong">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/billabongStoreWin_010_EN.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/billabongStoreWin_009_EN.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/billabongStoreWin_008_EN.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/billabongStoreWin_007_EN.dds</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/billabongStoreWin_006_EN.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="MP_Empty1">
+    <TYPE>IMAGES</TYPE>
+  </SCREEN>
+  <SCREEN ID="MP_Empty2">
+    <TYPE>IMAGES</TYPE>
+  </SCREEN>
+  <SCREEN ID="MP_Empty3">
+    <TYPE>IMAGES</TYPE>
+  </SCREEN>
+  <SCREEN ID="MP_Lockwood">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/Nadia_Large_SCEE.jpg</SOURCE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_14_09/Cauldron_Large.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="MP_NDreams">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scee-home.playstation.net/e.home/mfe/content/2010_07_10/UFO-poster_OUT_NOW2_RECODE.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="MPVideoScreen">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:aspnetForm ATTR=ID:ctl00_ContentPlaceHolder1_ctl00_tbUrl CONTENT=http://scee-home.playstation.net/e.home/mfe/content/2010_14_09/Cauldron_Large.dds</SOURCE>
+  </SCREEN>
+</XML>
