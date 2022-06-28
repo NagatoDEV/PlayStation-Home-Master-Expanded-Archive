@@ -1,0 +1,20 @@
+<XML>
+  <SCREEN ID="PSMove_VideoScreen">
+    <TYPE>MEDIARSS</TYPE>
+    <SOURCE LINK="http://www.us.playstation.com/"> http://scea-home.playstation.net/a.home/mfe/content/Movies/PSMove_SmallScreen_SCEA.xml</SOURCE>
+  </SCREEN>
+  <SCREEN ID="PSMove_ScreenMain">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE> http://scea-home.playstation.net/a.home/mfe/content/Movies/MOVE_Montage_060610a_Profile3_001.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="PSMove_AlcoveLeft">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/PSMOVE_Move1_090210_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/PSMOVE_Move2_090210_684x384.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/PSMOVE_Move3_090210_684x384.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="PSMove_AlcoveRight">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Posters/PSMOVE_TheShoot_090210_684x384.dds</SOURCE>
+  </SCREEN>
+</XML>
