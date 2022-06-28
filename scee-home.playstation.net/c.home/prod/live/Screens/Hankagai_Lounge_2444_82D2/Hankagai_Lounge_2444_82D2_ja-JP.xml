@@ -1,0 +1,22 @@
+<XML>
+  <SCREEN ID="GRN_0004_001">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://scej-home.playstation.net/j.home/3rd/GRANZELLA/201112/111222/1222Hankagai_lounge.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="GRN_0004_002">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scej-home.playstation.net/j.home/3rd/GRANZELLA/201112/111215/GRN_0004_002_poster_hankagai2.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="GRN_0004_003">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scej-home.playstation.net/j.home/3rd/GRANZELLA/201112/111215/GRN_0004_003_poster_hankagai3.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="GRN_0004_004">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scej-home.playstation.net/j.home/3rd/GRANZELLA/201204/120425/GRN_0004_004_AprilNotice_120425.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="GRN_0004_005">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scej-home.playstation.net/j.home/3rd/GRANZELLA/201204/120418/GRN_0004_005_120418.dds</SOURCE>
+  </SCREEN>
+</XML>
