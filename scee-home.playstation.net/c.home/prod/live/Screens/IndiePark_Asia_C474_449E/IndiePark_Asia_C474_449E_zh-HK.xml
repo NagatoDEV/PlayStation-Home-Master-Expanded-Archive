@@ -1,0 +1,60 @@
+<XML>
+  <SCREEN ID="CGS_Blimp">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/mfe/111208_ContentUpdate/ip/ElectroKid.mp4</SOURCE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/mfe/111110_ContentUpdate/ip/VEEMEE_for_Indiepark.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="CGSMainScreen1">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/mfe/111110_ContentUpdate/ip/nDreams_for_IndeiPark.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="CGS_UrbanSouthWestFront">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/mfe/111110_ContentUpdate/ip/BowlingAlley_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="CGS_UrbanNorthEastFront">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/mfe/111110_ContentUpdate/ip/VeemeeStore_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="CGS_UrbanNorthWestFront">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/mfe/111110_ContentUpdate/ip/SavageCosmos_256x368_cn.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="CGS_UrbanEastFront">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/mfe/111110_ContentUpdate/ip/GnomeCurling_256x368_cn.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="CGS_RuralSouthEast1Front">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/mfe/111208_ContentUpdate/hs/Poster_ElectroKid_256x368_cn.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="CGS_RuralSouthEast2Front">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/mfe/111110_ContentUpdate/ip/VeemeeStore_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="CGS_RuralSouthEast3Front">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/mfe/111110_ContentUpdate/ip/SavageCosmos_256x368_cn.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="CGS_RuralEastBack">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/mfe/120111_ContentUpdate/ip/Disgaea4_2012Winter_356x512_cn.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="CGS_RuralEastFront">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/mfe/120111_ContentUpdate/ip/Disgaea4_2012Winter_356x512_cn.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="CGS_RuralWestFront">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/mfe/111110_ContentUpdate/ip/nDreams_Penguini_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="CGS_RuralWestBack">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/mfe/111110_ContentUpdate/ip/nDreams_Penguini_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="CGSMainScreen2">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/mfe/111110_ContentUpdate/ip/nDreams_Penguini_684x384.dds</SOURCE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/mfe/111110_ContentUpdate/ip/nDreams_Espionage9_684x384.dds</SOURCE>
+  </SCREEN>
+</XML>

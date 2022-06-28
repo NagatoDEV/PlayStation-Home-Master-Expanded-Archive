@@ -1,0 +1,84 @@
+<XML>
+  <SCREEN ID="SCEAsia_PSN_TOP_Screen01">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/Lagoon/GRN_Lagoon_PV_HK.mp4</SOURCE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/top_fixed/1-LBP.mp4</SOURCE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/top_fixed/2-Killzone2.mp4</SOURCE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/top_fixed/3-LocoIsland.mp4</SOURCE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/top_fixed/4-MotorStorm.mp4</SOURCE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/top_fixed/8-RESISTANCE.mp4</SOURCE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/top_fixed/9-WipEout.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_TOP_Screen02">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/Lagoon/GRN_Lagoon_PV_HK.mp4</SOURCE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/top_fixed/1-LBP.mp4</SOURCE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/top_fixed/2-Killzone2.mp4</SOURCE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/top_fixed/3-LocoIsland.mp4</SOURCE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/top_fixed/4-MotorStorm.mp4</SOURCE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/top_fixed/8-RESISTANCE.mp4</SOURCE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/top_fixed/9-WipEout.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_TOP_Poster01">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/top/LBP_estate_352x504_tc.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_TOP_Poster02">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/top/pixeljunk_352x504_cn.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_TOP_Poster03">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/top/Sodium_ChilliRed_F_352x504_tc.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_TOP_Poster04">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/top/DG_352x504_tc.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_TOP_Poster05">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110901/top/Paris02_356x512_cn.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_TOP_Poster06">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/top/ToroLounge_352x504A_tc.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_TOP_Poster07">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/top/LBP_356x512_cn.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_TOP_Poster08">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/mfe/120411_ContentUpdate/hs/Poster_Cutthroats_256x368_cn.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_TOP_Poster09">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/top/locoroco_356x512_cn.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_TOP_Poster10">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/top/SIREN_356x512_cn.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_TOP_Poster11">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/top/Midway1_356x512_cn.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_TOP_Poster12">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/top/musicality_352x504_cn.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_TOP_Quiz_TP">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/common/OP_TP_OFF.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_TOP_Quiz_BT">
+    <TYPE>IMAGES</TYPE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_TOP_Surv_TP">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/common/OP_TP_OFF.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_TOP_Surv_BT">
+    <TYPE>IMAGES</TYPE>
+  </SCREEN>
+</XML>

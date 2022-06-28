@@ -1,0 +1,26 @@
+<XML>
+  <SCREEN ID="GRN_0002_101">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/mfe/120328_ContentUpdate/hs/Poster_uraedo_684x384_cn.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="GRN_0002_102">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/mfe/120328_ContentUpdate/hs/Poster_EdoMononoke_356x512_hk.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="GRN_0002_103">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/mfe/120328_ContentUpdate/hs/Poster_EdoNagaya_356x512_cn.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="GRN_0002_104">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/Oedo/poster_Oedo_03_hk2.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="GRN_0002_105">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/Oedo/poster_Oedo_Lounge_684x384_cn.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="GRN_0002_106">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/Oedo/Oedo_Mononoke_Description_HK.dds</SOURCE>
+  </SCREEN>
+</XML>

@@ -1,0 +1,23 @@
+<XML>
+  <SCREEN ID="LocalImages">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/peakvox/labs_image1_zh-HKTW.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="LocalImages3">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/peakvox/labs_image3_zh-HKTW.dds</SOURCE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/peakvox/labs_image4_zh-HKTW.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="LocalImages5">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/peakvox/labs_image5_zh-HKTW2.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="LocalImages6">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/peakvox/labs_image6_zh-HKTW.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="LocalImages7">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/peakvox/labs_image7_zh-HKTW.dds</SOURCE>
+  </SCREEN>
+</XML>

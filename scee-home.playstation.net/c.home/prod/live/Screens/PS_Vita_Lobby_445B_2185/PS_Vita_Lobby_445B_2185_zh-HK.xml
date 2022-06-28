@@ -1,0 +1,18 @@
+<XML>
+  <SCREEN ID="Vita_VideoScreen_2">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/mfe/120222_ContentUpdate/th/GravityRush_forASIA.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Vita_VideoScreen_3">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/mfe/110728_ContentUpdate/hs/PSVita.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Vita_PosterScreen">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/PS_Vita/Poster_inVitalounge_684x384.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Vita_VideoScreen_1">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/PS_Vita/Poster_inVitalounge_684x384.dds</SOURCE>
+  </SCREEN>
+</XML>

@@ -1,0 +1,131 @@
+<XML>
+  <SCREEN ID="SCEAsia_PSN_MID_Screen01">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/mid/DragonsGreen_Home_tc.mp4</SOURCE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/mid/Sodium_PV_tc.mp4</SOURCE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/mid/Midway1.mp4</SOURCE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/mid/Midway2.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_CP4_TP">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/common/OP_TP_CP.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_CP5_BT">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/common/OP_BT_CP.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_CP5_TP">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/common/OP_TP_CP.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_CP6_BT">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/common/OP_BT_CP.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_CP6_TP">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/common/OP_TP_CP.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_CP7_BT">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/common/OP_BT_CP.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_CP7_TP">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/common/OP_TP_CP.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_CP8_BT">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/common/OP_BT_CP.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_CP8_TP">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/common/OP_TP_CP.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_CP9_BT">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/common/OP_BT_CP.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_CP9_TP">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/common/OP_TP_CP.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_Poster01">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/top/Sodium_ChilliRed_F_352x504_tc.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_Poster02">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/top/DG_352x504_tc.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_Poster03">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/mid/Midway2_356x512_cn.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_Poster04">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/mid/SodiumOne_356x512.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_Poster05">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/top/DG_352x504_tc.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_Poster06">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/mid/Midway2_356x512_cn.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_Poster07">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/mid/Sodium_Furniture_352x504_tc.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_Poster08">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/top/DG_352x504_tc.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_Poster09">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/20110428/mid/Midway2_356x512_cn.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_Quiz_BT">
+    <TYPE>IMAGES</TYPE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_Quiz_TP">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/common/OP_TP_OFF.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_Surv_BT">
+    <TYPE>IMAGES</TYPE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_Surv_TP">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/common/OP_TP_OFF.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_CP4_BT">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/common/OP_BT_CP.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_CP3_TP">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/common/OP_TP_CP.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_CP3_BT">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/common/OP_BT_CP.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_CP2_TP">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/common/OP_TP_CP.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_CP2_BT">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/common/OP_BT_CP.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_CP1_TP">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/common/OP_TP_CP.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="SCEAsia_PSN_MID_CP1_BT">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://sceasia-home.playstation.net/asia.home/lounge/area_lounge/common/OP_BT_CP.dds</SOURCE>
+  </SCREEN>
+</XML>
