@@ -1,0 +1,77 @@
+<XML>
+  <SCREEN ID="ScreenChannel2">
+    <TYPE>VIDEO</TYPE>
+  </SCREEN>
+  <SCREEN ID="PosterChannel1">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE LINK="https://playstationhome.jp/redirect/poster_id01_a.html">http://scej-home.playstation.net/j.home/Home/sq/110407/PosterChannel2_b.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="PosterChannel2">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE LINK="https://playstationhome.jp/redirect/poster_id02_a.html">http://scej-home.playstation.net/j.home/Home/sq/201011/posterchannel2/troublereport.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="PosterChannel56">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scej-home.playstation.net/j.home/Home/MP/201305/130522/GS001.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="PosterChannel57">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scej-home.playstation.net/j.home/Home/MP/201305/130522/GS001.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="scr_a">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scej-home.playstation.net/j.home/Home/sq/201308/130821/peakvoxlabs_poster_20130821.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="scr_d">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scej-home.playstation.net/j.home/Home/MP/201305/130529/purekom512.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="scr_b">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scej-home.playstation.net/j.home/Home/MP/201308/130821/20130821ReleaseItems.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="scr_c">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scej-home.playstation.net/j.home/Home/MP/201308/130807/130807ranking_all.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="scr_e">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scej-home.playstation.net/j.home/Home/th/201308/130821/130926_oreimo_banner_pshome.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="scr_f">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scej-home.playstation.net/j.home/Home/th/201308/130821/DUST514.png</SOURCE>
+  </SCREEN>
+  <SCREEN ID="scr_g">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scej-home.playstation.net/j.home/Home/th/201308/130821/DIR_352x504_02.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="scr_h">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scej-home.playstation.net/j.home/Home/th/201308/130821/352_504.png</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HomeSquarePoster3a">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scej-home.playstation.net/j.home/Home/MP/201308/130821/GRN_0020_006_20130821.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HomeSquarePoster3b">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scej-home.playstation.net/j.home/Home/MP/201308/130821/GRN_0020_006_20130821.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HomeSquarePoster4a">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scej-home.playstation.net/j.home/Home/MP/201308/130821/Moodies03_356x512_jp.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HomeSquarePoster4b">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scej-home.playstation.net/j.home/Home/MP/201308/130821/Moodies03_356x512_jp.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HomeSquarePoster7a">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scej-home.playstation.net/j.home/Home/MP/201308/130807/harajuku_girl_LMO_02_356x512.jpg</SOURCE>
+  </SCREEN>
+  <SCREEN ID="HomeSquarePoster7b">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scej-home.playstation.net/j.home/Home/MP/201308/130807/harajuku_girl_LMO_02_356x512.jpg</SOURCE>
+  </SCREEN>
+</XML>
