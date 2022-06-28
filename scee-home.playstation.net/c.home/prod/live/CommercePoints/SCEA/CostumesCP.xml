@@ -1,0 +1,828 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<commerce_point>
+  <node>
+    <header />
+    <node>
+      <header>
+        <name lang="en-GB" default="true">Male</name>
+        <name lang="fr-FR">Homme</name>
+        <name lang="de-DE">Männlich</name>
+        <name lang="it-IT">Maschio</name>
+        <name lang="es-ES">Hombre</name>
+        <name lang="ja-JP">??</name>
+        <name lang="ko-KR">??</name>
+        <name lang="en-SG">Male</name>
+        <name lang="zh-HK">??</name>
+        <name lang="zh-TW">??</name>
+        <name lang="en-US">Male</name>
+        <thumbnail lang="en-GB" default="true" useOsdColour="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/male.dds</thumbnail>
+      </header>
+	   <node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Scuba</name>
+          <name lang="fr-FR">Scuba</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/scuba.png</thumbnail>
+        </header>
+		<!--Scuba-->
+		<object>E246F891-D8DD43AD-86F3C414-80BB9A88</object>
+		<object>AD087BB9-EC9344B0-AD4CA0D9-6E415104</object>
+		<object>6A9E3058-EBC54F6F-A60501E1-0604FA02</object>
+		<object>E3CEB74C-BCD64298-98D2DD65-5C9D29BE</object>
+		<object>CF365CA4-2DB944FC-AB0A8ACA-2F171ABC</object>
+		<object>B173A605-7AE44EEC-90BC1468-E5B97A30</object>
+        </node>
+	  <node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Fire Fighter</name>
+          <name lang="fr-FR">Fire Fighter</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/firefighter.png</thumbnail>
+        </header>
+		<!--Firefighter-->
+		<object>E1059059-417749AC-AF8CE769-91383015</object>
+		<object>8EB5507D-A0B04848-A603174C-6CA11F1A</object>
+		<object>9A9CE8DB-FDEC4BAB-8820F3C2-478CE5CA</object>
+		<object>F2C2F04A-D67D404A-AFBEDFB4-569209EF</object>
+		<object>FA361216-23CC46B2-86C7B1B0-66CBF8B4</object>
+		<object>072380E7-9D564EA8-867513C1-1A75F1EA</object>
+        </node>
+	  	  <node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Witch Doctor</name>
+          <name lang="fr-FR">Witch Doctor</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/witchdoctor.png</thumbnail>
+        </header>
+		<!--WitchDoctor-->
+		<object>3BC761E9-86614F99-BAEB33B0-6B2884DE</object>
+		<object>A582CC0C-99AF423D-97D6DF68-BA63C377</object>
+		<object>148E0AC1-73B147FF-BF93B999-6183BE45</object>
+		<object>3286A3F1-3A3F4782-BBF3534B-920DF614</object>
+		<object>110D7DFA-DA7A4938-9762AD9B-C84B70DE</object>
+		<object>D88CE00F-85C54EDF-B4046F14-34C66E81</object>
+        </node>
+	  <node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Nerdy</name>
+          <name lang="fr-FR">Nerdy</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/nerd.png</thumbnail>
+        </header>
+		<!--Nerd-->
+		<object>CD6D55B5-02F4466E-93F922E5-868E8BBA</object>
+		<object>06892183-B494414D-9BDC86BD-D717619A</object>
+		<object>FFAFF015-F970428C-862AEA7F-19BBBDA2</object>
+		<object>33297AD1-CC16417A-B82AE08A-F42D6228</object>
+        </node>
+	  <node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Motorcross</name>
+          <name lang="fr-FR">Motorcross</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/mcross.png</thumbnail>
+        </header>
+		<!--Motorcross-->
+		<object>7FC65296-22EB484D-9B589BC4-2AD4673B</object>
+		<object>B5825B3B-3341457C-8B620C29-94E6B59A</object>
+		<object>3AA70F87-01AE43C0-83B51DAD-269AC74B</object>
+		<object>57DE8E6A-AC304027-94822AD3-FB5FA4BB</object>
+		<object>5899C6B4-D2B9490A-BA2DED69-5CCFBDAB</object>
+		<object>051F7FED-E59C4480-84293A47-2384D6E7</object>
+        </node>
+	  <node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Bicycle Messenger</name>
+          <name lang="fr-FR">Bicycle Messenger</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/mbm.png</thumbnail>
+        </header>
+		<!--Bicycle_Messenger-->
+		<object>467D9957-CA054B53-B239DB71-0B5B402F</object>
+		<object>548A0B3A-B59746B3-A826B7D7-47ECF0F0</object>
+		<object>3992CF8D-29CB46E1-90983122-AF43B8CE</object>
+		<object>069F0EA2-76044766-8214FF8D-B375FCAB</object>
+		<object>CF02A424-3B144F5C-823D8B85-09C2640E</object>
+        </node>
+	  <node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Deep Sea Diver</name>
+          <name lang="fr-FR">Deep Sea Diver</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/deepsea.png</thumbnail>
+        </header>
+		<!--DeepSea-->
+		<object>6365D666-736D4325-BFE2279F-89AD8545</object>
+		<object>4C159A80-1F0045F0-AA025C1B-9BB2E1D9</object>
+		<object>97757D13-22C448BA-BE4CF98A-0CC69936</object>
+		<object>73B6C00F-C56043E8-B53979D9-61850AEC</object>
+		<object>77CAB607-776D40DB-B406F4F2-C23E684A</object>
+		<object>76532C91-07F5459B-AD7A6C37-CF6529A4</object>
+        </node>
+	  <node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Spartan</name>
+          <name lang="fr-FR">Spartan</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/spartan.png</thumbnail>
+        </header>
+		<!--Spartan-->
+		<object>64A373D5-38294B5F-B372CFC8-3CC66E6B</object>
+		<object>1F98B023-75924329-AE421248-3E09CD49</object>
+		<object>EEFC8D1A-87934648-AB5AF6C8-2FF41C4B</object>
+		<object>1CE0B072-C46C43BD-AB7897B4-7FB1C232</object>
+		<object>5F3C5A19-471B4B7A-A1FF6489-7DB6D53F</object>
+		<object>5BE75759-AD7347A1-BCA32776-2F534C8E</object>
+		
+        </node>
+		<node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Medieval Armor</name>
+          <name lang="fr-FR">Medieval Armor</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/midevilmale.png</thumbnail>
+        </header>
+		<!--Medieval-->
+		<object>638F1DD4-0BFC4F26-95F64E99-9D2A39BE</object>
+		<object>8ECAE8BC-71E94B59-B401E079-7BB7DFDC</object>
+		<object>86013B62-7C0747DD-ADEE880E-32ADEEB2</object>
+		<object>754516E3-3D7A4F6D-8AC4603D-E559C628</object>
+		<object>284D355B-ECC44284-86A92BB7-D1667879</object>
+		<object>A92C94D4-DAC3408E-94FC7D9F-C3A9E848</object>
+        </node>
+		<node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Cardboard Robot</name>
+          <name lang="fr-FR">Cardboard Robot</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/cardboardrobot.png</thumbnail>
+        </header>
+		<!--Carboard Robot-->
+		<object>E09F0E8F-F959452A-A983A823-5BA60F2E</object>
+		<object>2271D7EB-5DF24F62-94393385-F9B391C3</object>
+		<object>6D4D842C-78FD4565-9D0731BD-A6A06623</object>
+		<object>D3DACF08-CD2D46C9-88F44EE0-1128D796</object>
+		<object>50FE2539-3DE0471B-8EA684AD-43A78BC6</object>
+		<object>65220AB7-322E4B44-B2A2F5B7-1DA63BCE</object>
+        </node>
+		<node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Samurai</name>
+          <name lang="fr-FR">Samurai</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/samurai.png</thumbnail>
+        </header>
+		<!--Male_Samurai-->
+		<object>9E343FB5-0C744CE4-ABFF862E-EFEC24A0</object>
+		<object>969CA408-D2524033-95315072-A4EBF6E5</object>
+		<object>80CE684A-70A94075-BCA1F82B-2F239A64</object>
+		<object>963FF1E2-DD534697-A7396ACE-ED11DBCC</object>
+		<object>6037291E-254F4879-ADE4FAF3-EE468DBD</object>
+		<object>31232D10-65B24F47-9C9D200D-56A649A2</object>
+        </node>
+		<node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Ninja</name>
+          <name lang="fr-FR">Ninja</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/ninjamale.png</thumbnail>
+        </header>
+		<!--Male_Ninja-->
+		<object>5779FDD2-5E664649-8356DAD7-DF275543</object>
+        </node>
+		<node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Pirate</name>
+          <name lang="fr-FR">Pirate</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/piratemale.png</thumbnail>
+        </header>
+		<!--Male_Pirate-->
+		<object>C4B94709-0A714B54-981561A4-928429FA</object>
+        </node>
+		<node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Hamsters!</name>
+          <name lang="fr-FR">Hamsters!</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/hamsters_01.png</thumbnail>
+        </header>
+		<!--June18th-->
+		<object>C1E812CA-1E0F4D87-863D3FEC-E9AE942F</object>
+		<object>6CEEB75C-358C4336-8AE934B4-4FF0601D</object>
+		<object>A314F2F4-DCEB48CB-A353B1F3-B39F9C33</object>
+		<object>D5A574EE-E802455C-8E00CB3C-BAE9A71C</object>
+		<object>4A36C152-AEE74510-AC74AF4C-2DF6D241</object>
+		<object>6163E2F2-306C44D0-AADC687E-BE10E9CB</object>
+        </node>
+		<node type="objects">
+		<header>
+          <name lang="en-GB" default="true">Katamari Forever</name>
+          <name lang="fr-FR">Katamari Forever</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/KF.png</thumbnail>
+        </header>
+		<!--Sept24th-->
+		<object>0AF5A7F5-AADB4353-A03DC7C1-FEB5F964</object>
+		<object>C0EAC22C-8D844439-8389F4C0-ED0922CA</object>
+		<object>47C3B891-FE3E4FBF-8F9BFE5D-AD019B20</object>
+		<object>3A110A5C-D6B0457D-B00CBC07-82CEC986</object>
+		<object>C48630D0-8E684DFD-859B5F8A-76BEEE3C</object>
+		<object>77FBC540-C8EC479D-94C5268D-0105286E</object>
+		</node>
+	  <node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Ghostbusters</name>
+          <name lang="fr-FR">Ghostbusters</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/GB.png</thumbnail>
+        </header>
+		<!--GB_Costume-->
+		<object>6A64D33C-71944AF5-8F2F4009-492A9B43</object>
+		<object>0B13812F-0ADC444B-8D31FE18-AF0808CD</object>
+		<object>2CA8254B-A76848F9-864C695E-8E35FCEE</object>
+		<object>D0E4077E-2510491D-B9C2D519-7A1B9635</object>
+		<object>95A95E73-DFBA498B-866BB658-4D111658</object>
+		<object>B42EB771-0D6D4253-AA709361-DFA313FC</object>
+		<object>17540361-E8A74759-A1234D62-7E6CB67B</object>
+        </node>
+	  	  <node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Killzone 2</name>
+          <name lang="fr-FR">Killzone 2</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/K2_demo.png</thumbnail>
+        </header>
+        <object>2E459CDE-CF114C64-9C31C8D4-DC9526F6</object>
+		<object>F5FC20FA-22B542E8-8C2D8D7E-FFB1DE57</object>
+		<object>E3D5EFEA-E1624821-855C33F7-1F2A4657</object>
+		<object>7D6B0DCE-EEE64E29-A7F3E26A-DEAC9412</object>
+		<object>E908A0FE-AAAE473F-A9742617-39D384A4</object>
+        </node>
+		  <node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Resistance</name>
+          <name lang="fr-FR">Resistance</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/R2Logo.png</thumbnail>
+        </header>
+        <object>B2C4B039-4A85427A-9EB0B529-CC83F6A1</object>
+        <object>925C9E5E-2EF74F1E-8E706D82-F1516833</object>
+        <object>2F4AD443-F1CE43ED-ABC38DB3-99214F8F</object>
+        <object>4B8F6DC0-2FCC4EE4-8107FC7B-BFF7F797</object>
+		<object>F5A5DE9E-7B784D91-8729014F-77A69F8F</object>
+        </node>
+		<node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Resident Evil 5</name>
+          <name lang="fr-FR">Resident Evil 5</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/ResidentEvil5_logo.png</thumbnail>
+        </header>
+        <object>931C870C-427F4A7E-AC8A8CC5-681AC189</object>
+        <object>9E7296C2-B356400E-B6E80B17-D634960F</object>
+        <object>84864243-D16F4755-86B653B3-A731FB3A</object>
+        <object>2536964D-16C847E1-B56BDB17-1FD8553D</object>
+		<object>FA72C3D9-73B34D08-A16BA6D5-BFFF7593</object>
+        </node>
+		<node>
+		<header>
+          <name lang="en-GB" default="true">Tekken</name>
+          <name lang="fr-FR">Tekken</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/tek5.png</thumbnail>
+        </header>
+        <node type="objects">
+          <header>
+            <name lang="en-GB" default="true">Paul</name>
+            <name lang="fr-FR">Paul</name>
+            <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/tekpaul.png</thumbnail>
+          </header>
+		<object>20099DAA-C90A49E6-9B57E477-1D8225C4</object>
+        <object>1019F436-43A14E7C-9F75630C-5E15BDB6</object>
+        <object>3DE33B45-ED8347A1-8C9FED79-8AA3DB98</object>
+        <object>E5C23721-E57C4216-A1B9EE74-E6714057</object>
+		<object>85143265-3AC2414F-9D36E0C9-CF25D1ED</object>
+        </node>
+        <node type="objects">
+          <header>
+            <name lang="en-GB" default="true">Heihachi</name>
+            <name lang="fr-FR">Heihachi</name>
+            <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/tekhei.png</thumbnail>
+          </header>
+		<object>92E2C9AC-B31442CE-A356B266-C90D59AC</object>
+        <object>05DF9D97-9D804B83-A51EC15F-5FBD59FB</object>
+        <object>55DD94B6-835A4C9A-8AC8EC09-3A282D0B</object>
+        <object>D108139D-B03E4C24-A6031704-7F3211C1</object>
+        </node>
+		</node>
+      <node>
+        <header>
+          <name lang="en-GB" default="true">Street Fighter IV</name>
+          <name lang="fr-FR">Street Fighter IV</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/streetfighter4.png</thumbnail>
+        </header>
+        <node type="objects">
+          <header>
+            <name lang="en-GB" default="true">Ken</name>
+            <name lang="fr-FR">Ken</name>
+            <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/Ken.png</thumbnail>
+          </header>
+		<object>0952BA92-BA864E6F-81140916-758B8E4A</object>
+        <object>93E816ED-CC974001-A2F3DB65-722DBCAC</object>
+        <object>EB794CCD-9CA44502-83C0C037-BCA921AA</object>
+        <object>E2D3F275-DE4F4672-BFB43E80-BFA72AEA</object>
+        </node>
+        <node type="objects">
+          <header>
+            <name lang="en-GB" default="true">Ryu</name>
+            <name lang="fr-FR">Ryu</name>
+            <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/Ryu.png</thumbnail>
+          </header>
+		<object>97F334B3-C2864E72-A3178201-939462CA</object>
+        <object>4F7BE215-56C2493E-95224875-B437CD24</object>
+        <object>3278766A-C6FA49EC-9AB7A2DA-1AB3C458</object>
+        <object>9B7C6A24-C0D54BC5-A805755A-B42C3DC7</object>
+        </node>
+        <node type="objects">
+          <header>
+            <name lang="en-GB" default="true">Guile</name>
+            <name lang="fr-FR">Guile</name>
+            <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/Guile.png</thumbnail>
+          </header>
+		<object>649BFA85-52F44E96-8E372E01-8A901085</object>
+        <object>3F38B985-615C443B-BEB581C5-19B52447</object>
+        <object>7868EDA6-0CA741A1-AAFE24AB-7B1EE942</object>
+        <object>CE9E58A5-89964329-804A812E-730CB7B3</object>
+        </node>
+		  <node type="objects">
+          <header>
+            <name lang="en-GB" default="true">Dhalsim</name>
+            <name lang="fr-FR">Dhalsim</name>
+            <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/Dhalsim.png</thumbnail>
+          </header>
+		<object>4832A291-C3634104-9E947805-78A91634</object>
+        <object>C78BCF2C-16BF48BE-ACD1F790-E95D9807</object>
+        <object>EEB4B550-F5924647-81C52147-C8EEF4B0</object>
+        <object>EF237575-80ED4258-BB45DEFA-E3D8F13A</object>
+		<object>C557EC37-C3A24579-BDE3BB1E-CCDDA249</object>
+        </node>
+		  <node type="objects">
+          <header>
+            <name lang="en-GB" default="true">Zangief</name>
+            <name lang="fr-FR">Zangief</name>
+            <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/Zangief.png</thumbnail>
+          </header>
+		<object>ABABD530-67024500-813A1F9A-661FBC91</object>
+        <object>88CB4FAF-9C204737-9A183D91-F056AFBC</object>
+        <object>BCBCC077-F9984466-A02449D7-F5BB5119</object>
+        <object>AF4EECD1-CAE64A54-BAC3A9C4-F77DE4D1</object>
+		<object>3B1D022F-1B98430B-833C872E-18AC4E57</object>
+        </node>
+		  <node type="objects">
+          <header>
+            <name lang="en-GB" default="true">E. Honda</name>
+            <name lang="fr-FR">E. Honda</name>
+            <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/EHonda.png</thumbnail>
+          </header>
+		<object>CEFD5768-B140471F-AEAF845F-D5BB57E7</object>
+        <object>A3798464-ACF145FD-932241D4-A05C8EDF</object>
+        <object>D548873F-555042C0-BB24C2F1-D950584E</object>
+        </node>
+		  <node type="objects">
+          <header>
+            <name lang="en-GB" default="true">Blanka</name>
+            <name lang="fr-FR">Blanka</name>
+            <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/Blanka.png</thumbnail>
+          </header>
+		<object>49E5EA48-81FB4680-B7861B33-DDFAA20C</object>
+        <object>65564791-0FD247B8-841A014D-6EFE367F</object>
+        <object>AFAB87D0-43504AE8-A02CAB4C-1AB9C4A0</object>
+        <object>802E550A-00AB4603-A2A240D4-F974BED1</object>
+		<object>AC605F2F-91974BBF-975786A9-B9909F4B</object>
+        </node>
+		<node type="objects">
+          <header>
+            <name lang="en-GB" default="true">Dan</name>
+            <name lang="fr-FR">Dan</name>
+            <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/Dan.png</thumbnail>
+          </header>
+		<object>251F6A36-8CDF4F9D-A784088D-D61420DB</object>
+		<object>3FC4BA3B-20C84869-903D2AA0-A4F76590</object>
+		<object>A5CC87D0-959B41FD-98C60706-8DE9FE5C</object>
+		<object>A50685DC-1EEF4889-80A285AC-86C18017</object>
+        </node>
+		<node type="objects">
+          <header>
+            <name lang="en-GB" default="true">Fei Long</name>
+            <name lang="fr-FR">Fei Long</name>
+            <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/Feilong.png</thumbnail>
+          </header>
+		<object>08AAAF41-0829416E-98C614DE-BEFC3B86</object>
+		<object>386504A3-1942494E-B9E18BBA-4779DA5B</object>
+		<object>7B936258-4EA24065-A1F2A73D-96D32D29</object>
+		<object>56CF20AE-44CB4BF6-A9A907AF-A91D8A68</object>
+        </node>
+		<node type="objects">
+          <header>
+            <name lang="en-GB" default="true">Gen</name>
+            <name lang="fr-FR">Gen</name>
+            <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/Gen.png</thumbnail>
+          </header>
+		<object>881D5773-06674805-94CB920A-86DF853A</object>
+		<object>55E641F2-AC554558-A757B426-F3884977</object>
+		<object>E96ED7E6-60A041C1-8F543496-7F2D950B</object>
+		<object>D8EDEF79-88864C44-B3E3F05D-E4E794E3</object>
+        </node>
+		<node type="objects">
+          <header>
+            <name lang="en-GB" default="true">Akuma</name>
+            <name lang="fr-FR">Akuma</name>
+            <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/Akuma.png</thumbnail>
+          </header>
+		<object>BBDFCCB4-B3AC4043-BD9E9EA5-D2A8D72D</object>
+		<object>1D097D2F-A08D4E3D-A2A47C0A-0E243463</object>
+		<object>BD0D2735-44424AD3-9F1BA4DB-D30EAC64</object>
+		<object>362C8F01-3B614C5F-98DE14F9-48A1D6FF</object>
+		<object>821AC63F-E5364752-83F4D73B-F582DED5</object>
+        </node>
+		        <node type="objects">
+          <header>
+            <name lang="en-GB" default="true">Balrog</name>
+            <name lang="fr-FR">Balrog</name>
+            <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/Balrog.png</thumbnail>
+          </header>
+		<object>41FCC581-68F34B98-879E0140-5659698E</object>
+		<object>157EF1BE-ECB04707-8184897F-CADAC582</object>
+		<object>547079C1-678B4711-81DB42D2-ACE8A465</object>
+		<object>49BF8C4B-39964523-B85468C8-4F009605</object>
+		<object>B186B50A-F0484AD8-878D80B6-25CA7E65</object>
+        </node>
+		        <node type="objects">
+          <header>
+            <name lang="en-GB" default="true">Vega</name>
+            <name lang="fr-FR">Vega</name>
+            <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/Vega.png</thumbnail>
+          </header>
+		<object>E82993BF-9D2045F0-B9329AF7-B2D73C1F</object>
+		<object>44437822-980E4980-81605D50-50422658</object>
+		<object>6138DF66-175D4B6A-B419CD29-6B52BB65</object>
+		<object>F920A27C-86A44D4D-966911B4-BE0DAFDF</object>
+		<object>E141ACCC-9688463D-904235C1-88B43FD0</object>
+		<object>FFFC794B-BF4A43DF-8C459FA1-2178A992</object>
+        </node>
+		        <node type="objects">
+          <header>
+            <name lang="en-GB" default="true">Sagat</name>
+            <name lang="fr-FR">Sagat</name>
+            <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/Sagat.png</thumbnail>
+          </header>
+		<object>30C79C72-BA8A4A00-84CD6735-EFD3D346</object>
+		<object>85DDFA04-39A044F6-A8431B6C-0919BBE3</object>
+		<object>E1F085F3-756C4F86-8B79EADD-6C2608AB</object>
+		<object>51C6F284-CF5C4A69-8A4AA9E8-E3F94D38</object>
+		<object>CADC0261-2C51413F-AED15E0A-3FFE50E2</object>
+        </node>
+		        <node type="objects">
+          <header>
+            <name lang="en-GB" default="true">M. Bison</name>
+            <name lang="fr-FR">M. Bison</name>
+            <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/Bison.png</thumbnail>
+          </header>
+		<object>86C9BC91-750F4A51-83FC2A2F-DBB8F50A</object>
+		<object>F4192C14-5A184780-96B731BD-BFFB26E0</object>
+		<object>960A4B9B-EAFB4CEA-B537FCF9-B36325E9</object>
+		<object>F43EE453-92844F91-B6C305D8-B6AB8BF9</object>
+        </node>
+		<node type="objects">
+          <header>
+            <name lang="en-GB" default="true">Abel</name>
+            <name lang="fr-FR">Abel</name>
+            <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/Abel.png</thumbnail>
+          </header>
+		<object>A0C0C08F-3E414C3D-ACE6EDB1-FA138C14</object>
+		<object>3980C583-B0D346E6-96BF4C8B-20FD2A99</object>
+		<object>74984101-86A54FCE-BCE2A73D-3F73294A</object>
+		<object>FC6D2A7A-CC1B40F3-9526433F-2B07D434</object>
+		<object>4D138E9A-BA754C67-AAE1207B-8D60D015</object>
+        </node>
+		<node type="objects">
+          <header>
+            <name lang="en-GB" default="true">El Fuerte</name>
+            <name lang="fr-FR">El Fuerte</name>
+            <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/el_fuerte.png</thumbnail>
+          </header>
+		<object>1E58A6C6-2981446F-96002C0F-DC69714E</object>
+		<object>AB7AF9EF-5E574DAB-9E42967D-F2F7B999</object>
+		<object>3331BD22-35A14B99-82ADBD62-0D9AA6A7</object>
+		<object>08792AB1-8603468D-91453630-0B22F83A</object>
+        </node>
+			<node type="objects">
+          <header>
+            <name lang="en-GB" default="true">Rufus</name>
+            <name lang="fr-FR">Rufus</name>
+            <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/rufus.png</thumbnail>
+          </header>
+		<object>6C55C328-E4F54A52-BFD0636B-C6D6FD87</object>
+		<object>DB2830E6-D27B4299-BCBBD0F4-2178C26A</object>
+		<object>3173D5A2-DAD941C8-A200B778-418A0F9F</object>
+		<object>AC2DE046-1A7D47B2-9157304B-E9786603</object>
+		<object>3AD5494A-9B674431-80346D55-FB6F6169</object>
+        </node>
+			<node type="objects">
+          <header>
+            <name lang="en-GB" default="true">Gouken</name>
+            <name lang="fr-FR">Gouken</name>
+            <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/gouken.png</thumbnail>
+          </header>
+		<object>137FEFD1-DA02410B-94FE42C4-665492BF</object>
+		<object>3BF40D76-183F4385-94EECA9E-AF60E170</object>
+		<object>BE0623B0-80214D4E-9ADFA854-68C31792</object>
+        </node>
+      </node>
+    </node>
+    <node>
+      <header>
+        <name lang="en-GB" default="true">Female</name>
+        <name lang="fr-FR">Femme</name>
+        <name lang="de-DE">Weiblich</name>
+        <name lang="it-IT">Femmina</name>
+        <name lang="es-ES">Mujer</name>
+        <name lang="ja-JP">??</name>
+        <name lang="ko-KR">??</name>
+        <name lang="en-SG">Female</name>
+        <name lang="zh-HK">??</name>
+        <name lang="zh-TW">??</name>
+        <name lang="en-US">Female</name>
+        <thumbnail lang="en-GB" default="true" useOsdColour="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/female.dds</thumbnail>
+      </header>
+	  	<node type="objects">
+		<header>
+          <name lang="en-GB" default="true">Space Girl</name>
+         <name lang="fr-FR">Space Girl</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/spacegirl.png</thumbnail>
+        </header>
+		<!--SpaceGirl-->
+		<object>0E849DA0-C0224427-AD5CBE12-B286D2CF</object>
+		<object>2D021FB6-03654FE6-BA4C704C-132B48EE</object>
+		<object>2210EFCC-A31F47A2-9928D926-3E5B003E</object>
+		<object>C7826D1B-404E45FD-8138CE04-70399062</object>
+		<object>36BB531C-AC54409B-8950C6A4-237613A6</object>
+		<object>86888772-9BD54DE3-8B3B7B24-A7B02F12</object>
+        </node>
+	  	  <node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Ballet</name>
+         <name lang="fr-FR">Ballet</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/ballet.png</thumbnail>
+        </header>
+		<!--BalletDancer-->
+		<object>9B83F881-A3EB4882-88FF0B8E-E09F13FA</object>
+		<object>9A3FF94A-2420465C-BFCE111B-61D0ECE5</object>
+		<object>1E6129CF-0F934730-B45A29DE-FE1DFAEE</object>
+		<object>E633D51D-28E44767-8B1DC475-BFAB6940</object>
+        </node>
+	  <node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Summerwear</name>
+         <name lang="fr-FR">Summerwear</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/summerwear.png</thumbnail>
+        </header>
+		<!--Summerwear-->
+		<object>950C79C0-3E6443B4-84F512D2-1D0DF273</object>
+		<object>1CB8981D-76674256-8A48139C-B5F32C36</object>
+		<object>6E50E06F-6DF0436C-92BC4BF5-45DB97A9</object>
+		<object>10390834-9FD24EE4-B3D83C8C-537FF190</object>
+		<object>B5C4A1A2-76ED4D2C-A395A7FF-A4072657</object>
+        </node>
+	  	  <node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Rocker Girl</name>
+          <name lang="fr-FR">Rocker Girl</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/rockergirl.png</thumbnail>
+        </header>
+		<!--Rocker_Girl-->
+		<object>6A6C8BF6-B36E495F-9F7D5BFE-5C5B9466</object>
+		<object>87499BEE-A6224255-8C0BDDA2-6316B3BF</object>
+		<object>F0E6BFA3-581643F1-89263A0F-B935A7F2</object>
+		<object>1F17B958-6B4B4D3F-8659D10D-3BE96D4E</object>
+		<object>7A14D9AA-82C84E81-87805FEB-81522862</object>
+        </node>
+	  <node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Burning Girl</name>
+          <name lang="fr-FR">Burning Girl</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/burngirl.png</thumbnail>
+        </header>
+		<!--Burning_Girl-->
+		<object>6C992CF9-1A5F4F8A-92E9E459-854F7C54</object>
+		<object>39B77623-4753424A-9C942695-74C13E93</object>
+		<object>E9D42757-C8844085-9FF60640-10A94AEC</object>
+		<object>6A243A26-03374C6D-9ABD82C4-EACAA852</object>
+		<object>24A2562D-EA454132-ABB05D91-BABF8123</object>
+        </node>
+	  <node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Bicycle Messenger</name>
+          <name lang="fr-FR">Bicycle Messenger</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/fbm.png</thumbnail>
+        </header>
+		<!--Bicycle_Messenger-->
+		<object>B0F1EF8C-855D40B9-BBB806EE-1A6F93F8</object>
+		<object>25407F4A-A35F4729-9C2DF41E-6B90E3EB</object>
+		<object>D4C48310-F3C54E5B-850C8DC0-B0E2A52C</object>
+		<object>04D17E29-6C184471-A4B0D4D0-9AA914E3</object>
+		<object>206E9A43-D1C94002-861DE346-583BA445</object>
+		<object>D7DA71CF-D0694DC3-95366732-BE5FB0BD</object>
+        </node>
+	    <node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Cave Woman</name>
+          <name lang="fr-FR">Cave Woman</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/cavewoman.png</thumbnail>
+        </header>
+		<!--Cave_Woman-->
+		<object>A5E25A75-F81A4CFC-98D1B583-5EF61E08</object>
+		<object>642BC3CE-6C254280-A52A9534-9BCFBC09</object>
+		<object>27F81AC0-6C854804-985D6914-76EE6210</object>
+		<object>1DA30056-8B234E6F-98368546-1AC96D73</object>
+		<object>48E9B728-73294E7C-B2D13C08-700B3419</object>
+		<object>B4D90880-7A5F4D54-950C6218-FCDCE0F1</object>
+        </node>
+	  <node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Geisha</name>
+          <name lang="fr-FR">Geisha</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/geisha.png</thumbnail>
+        </header>
+		<!--Female_Geisha-->
+		<object>8994BE2A-ACBB4A91-A37C6BFF-694EE8AA</object>
+		<object>4B634038-F737433D-A4A842B6-29B57048</object>
+		<object>3B9D1DC3-C71D43B3-87D06A8F-A2E01E39</object>
+		<object>30951BD5-61784C11-A27DCA5B-53A19623</object>
+		<object>C84473D8-3AD84E95-98818341-AB226AD0</object>
+        </node>
+		<node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Roman Toga</name>
+          <name lang="fr-FR">Roman Toga</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/toga.png</thumbnail>
+        </header>
+		<!--Toga-->
+		<object>E94E153B-666F41BD-BB0F10E2-00CB5CD0</object>
+		<object>44E239F5-950043C3-889E0712-C2B71328</object>
+		<object>97DB7EC4-B9FB418A-9D9D0D68-0C6E2074</object>
+		<object>249E93FE-3E0A400D-B289D6E8-2D21F403</object>
+        </node>
+		<node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Luchadora</name>
+          <name lang="fr-FR">Luchadora</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/luchadora.png</thumbnail>
+        </header>
+		<!--Luchadora-->
+		<object>EFAE40AA-69FD4A41-9D2A4925-C8E3713A</object>
+		<object>3637C117-F81349C4-B35B8708-E437FE16</object>
+		<object>353AFA09-527E490D-A88B1EF8-15416763</object>
+		<object>24D4DC63-99B64A39-A77FAD5C-CE4E67A9</object>
+		<object>1169644E-5FD349AC-A7C2378A-CE410D26</object>
+		<object>9FC89FDC-6F614CA2-9B462BE7-FBCDC0E3</object>
+        </node>
+	  <node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Medieval Armor</name>
+          <name lang="fr-FR">Medieval Armor</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/midevilfemale.png</thumbnail>
+        </header>
+		<!--MedievalArmor-->
+		<object>F8BE1473-A83949F5-BCA19E3E-76571D08</object>
+		<object>9CB1DAC0-739C4016-BA492B37-C045D351</object>
+		<object>AA9239D2-FC444A0F-A9E130F5-F19E8FD6</object>
+		<object>18ACC7C5-458A4917-939A2206-BA6159B7</object>
+		<object>46DCB395-D45643C4-B6D3FDE7-5CEDE4E7</object>
+		<object>2BFF42A3-A8304019-BBF6DA30-652150BB</object>
+        </node>
+	  <node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Ninja</name>
+          <name lang="fr-FR">Ninja</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/ninjafemale.png</thumbnail>
+        </header>
+		<!--Female_Ninja-->
+		<object>4AFA4C22-85B14D7A-B4453C18-D2534D2B</object>
+        </node>
+		<node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Pirate</name>
+          <name lang="fr-FR">Pirate</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/piratefemale.png</thumbnail>
+        </header>
+		<!--Female_Pirate-->
+		<object>A628ACB9-45DF4387-80776FEF-3B798C07</object>
+        </node>
+		<node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Hamsters!</name>
+          <name lang="fr-FR">Hamsters!</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/hamsters_01.png</thumbnail>
+        </header>
+		<!--June18th-->
+		<object>8D30E644-17C243BE-9519D913-3C90C296</object>
+		<object>078EFE75-F01E48BB-956E79D5-8EDBBCE7</object>
+		<object>395CD7AB-BD9F47F2-AECEDF76-809BCD90</object>
+		<object>FC794592-982348D0-A58FD878-E4A4CAAC</object>
+		<object>19C9E61C-3B7B4CE9-9020A643-11A9236C</object>
+		<object>4E0D1C8A-6A854BF2-871DA17B-0C8C38A8</object>
+        </node>
+	  	  <node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Ghostbusters</name>
+          <name lang="fr-FR">Ghostbusters</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/GB.png</thumbnail>
+        </header>
+		<!--GB_Costume-->
+		<object>D9B5CE15-15B84034-8116B52E-B4BEBFF4</object>
+		<object>452B911F-23BB4F82-BB129419-48C191DC</object>
+		<object>4C6E5DB7-AEDE4C66-B1720ECF-7FE7DE49</object>
+		<object>00DBAEB6-404540DF-9BB3393B-3878811B</object>
+		<object>C617A8E0-091847A5-AAD6A232-FADAEFD7</object>
+		<object>1DE352FB-A5624E35-9FF1A17B-B7196E6B</object>
+		<object>74A05156-050B40F7-B5630D74-292F37BE</object>
+        </node>
+	  	  	  <node type="objects">
+			<header>
+          <name lang="en-GB" default="true">Killzone 2</name>
+          <name lang="fr-FR">Killzone 2</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/K2_demo.png</thumbnail>
+        </header>
+		<object>2E459CDE-CF114C64-9C31C8D4-DC9526F6</object>
+		<object>01376D69-90A94BF6-AAF004E1-9238545E</object>
+		<object>5D5DD097-A0394D56-861AFC75-5B3852F8</object>
+		<object>2DA75FE0-50A14A1B-A7CD3D24-B4591BBB</object>
+		<object>8CE84481-DB304612-9D0C1FA0-702FA293</object>
+        </node>
+	  	<node type="objects">
+		<header>
+          <name lang="en-GB" default="true">Resident Evil 5</name>
+          <name lang="fr-FR">Resident Evil 5</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/ResidentEvil5_logo.png</thumbnail>
+        </header>
+        <object>74DCA91E-085D42AD-8B733422-7B08C3B8</object>
+        <object>08F939D1-E3D842A9-8CE11BE4-F55E66B7</object>
+        <object>CF8F052E-DB1C4691-854BFBB2-F1125B6C</object>
+        <object>1C4D07F2-13684C46-B74AFC0F-EA532527</object>
+		<object>1FF83C79-4A8C4FBB-931DEDBB-DB637DD8</object>
+		<object>30FCEED7-3B1A4421-AC6BC016-4DE1CA15</object>
+		<object>7AA172C3-B3B048FD-98040791-0585BAD8</object>
+        </node>
+      <node>
+        <header>
+          <name lang="en-GB" default="true">Street Fighter IV</name>
+          <name lang="fr-FR">Street Fighter IV</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/streetfighter4.png</thumbnail>
+        </header>
+        <node type="objects">
+          <header>
+            <name lang="en-GB" default="true">Chun-Li</name>
+            <name lang="fr-FR">Chun-Li</name>
+            <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/ChunLi.png</thumbnail>
+          </header>
+		<object>F58D70F3-8F674098-A485B405-0793D3DE</object>
+        <object>68046774-86384544-948B1080-3C1E5B05</object>
+        <object>C894F2D4-79C34EF0-9C690DC1-EE2ECADD</object>
+        <object>1343E2AF-A5D04151-BA542C87-0FDA869D</object>
+        <object>4AFAC9B2-EC2A4B44-A7DE88C6-6B058DD1</object>
+      </node>
+	  <node type="objects">
+          <header>
+            <name lang="en-GB" default="true">Crimson Viper</name>
+            <name lang="fr-FR">Crimson Viper</name>
+            <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/CrimsonViper.png</thumbnail>
+          </header>
+		<object>3F391DA6-D8DD49CD-A6F422AE-14A5CB9F</object>
+		<object>8F98DC06-EF184869-8672CDBA-79B4D2A3</object>
+		<object>E206A084-00E64981-971699DE-3F005845</object>
+		<object>9DDBBCCA-06484AD6-93DA6E97-52759501</object>
+		<object>7CE0212E-A7924FA7-89ED2532-FF691A15</object>
+		<object>AE46342C-D7E94644-9C437994-B2D8A402</object>
+		<object>F5E79564-A8C54FC8-9613EE35-30EC229E</object>	
+      </node>
+	  <node type="objects">
+          <header>
+            <name lang="en-GB" default="true">Sakura</name>
+            <name lang="fr-FR">Sakura</name>
+            <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/Sakura.png</thumbnail>
+          </header>
+		<object>EB358AB6-67264076-A126B13E-D0985373</object>
+		<object>A80B6F45-C1404628-A694E0EF-01E087DC</object>
+		<object>F1267A3D-E29643A7-9D93807E-9CBE5D4D</object>
+		<object>92D679CF-5EB149D0-8079FFAB-D5864D6D</object>
+		<object>D4993012-E3AA4369-BCEF95AE-B2306399</object>
+      </node>
+	  	  <node type="objects">
+          <header>
+            <name lang="en-GB" default="true">Cammy</name>
+            <name lang="fr-FR">Cammy</name>
+            <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/Cammy.png</thumbnail>
+          </header>
+		<object>0296D312-AE074818-8B71AFA3-FCFAD7A4</object>
+		<object>093EEFA7-EC304BEA-88D9FFB5-B13C6598</object>
+		<object>72A37C11-0369409B-A9E6F521-47A225B8</object>
+		<object>89A72460-D78B4C4A-ACBC0792-CDB19C37</object>
+		<object>099BF799-1CEE4878-A19F9807-40B5AECF</object>
+      </node>
+	  	  <node type="objects">
+          <header>
+            <name lang="en-GB" default="true">Rose</name>
+            <name lang="fr-FR">Rose</name>
+            <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/Rose.png</thumbnail>
+          </header>
+		<object>D2812189-F0D446F2-898E69F5-4DC5EEE4</object>
+		<object>701A8D13-0C6644BA-8C35D95E-5A88CCA8</object>
+		<object>CC1617FF-AB2D4698-BDB920BC-7E770121</object>
+		<object>8B0B0630-F66645F5-A4142A57-5EA6AC58</object>
+      </node>
+      </node>
+      </node>
+	  </node>
+</commerce_point>
