@@ -1,0 +1,10 @@
+<XML>
+  <SCREEN ID="GVIPScreen1">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/GH5_Reveal_Trailer_MP4_Profile3.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="GVIPScreen2">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Movies/GH_VanHalenRevealTrailer_HD_Profile3.mp4</SOURCE>
+  </SCREEN>
+</XML>
