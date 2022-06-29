@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<commerce_point>
+	  <node> <!-- Gamescom -->
+        <header>
+          <name lang="en-US" default="true">Gamescom</name>
+          <thumbnail lang="en-GB" default="true">[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/gamescom_scea.dds</thumbnail>
+		  <background>[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/gamescom_bg_scea.dds</background>	  
+        </header>
+		<node type="objects"> <!-- Ornaments -->
+		  <header>
+			<name lang="en-US" default="true">Ornaments</name>
+			<name lang="fr-FR" >Décoration</name>
+			<thumbnail lang="en-US" default="true" useOsdColour="true"> [CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/Categoryvases.dds</thumbnail>
+			<background>[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/gamescom_bg_scea.dds</background> 
+		  </header>
+		    <object>D2BB7798-50174626-AB80344E-B743D580</object> <!-- 8/19/10 -->
+			<object>874D4254-ACC045CD-A879221E-685CD677</object> <!-- 8/19/10 -->
+			<object>019BEDBD-74124667-999D1198-EA30D1B6</object> <!-- 8/19/10 -->
+		</node>
+		<node type="objects"> <!-- Flooring -->
+	      <header>
+	        <name lang="en-US" default="true">Flooring</name>
+	        <name lang="fr-FR" >Flooring</name>
+	        <thumbnail lang="en-US" default="true" useOsdColour="true"> [CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/flooring.dds</thumbnail>
+	        <background>[CONTENT_SERVER_ROOT]CommercePoints/Thumbnails/gamescom_bg_scea.dds</background>
+	      </header>
+		    <object>074100BF-973347D5-A166DC15-0683CCB1</object> <!-- 8/19/10 -->
+			<object>CCBACBE8-61B2470B-A79F5011-CBE250E2</object> <!-- 8/19/10 -->
+			<object>E291B7FE-349E4A50-B20BB2C5-5017A9AE</object> <!-- 8/19/10 -->
+			<object>F5DC9AC7-DC8A4C33-8B94AA0B-C4261ABC</object> <!-- 8/19/10 -->
+			<object>D33A5727-E5294345-A6F25BC3-C38910E8</object> <!-- 8/19/10 -->
+			<object>D33A5727-E5294345-A6F25BC3-C38910E8</object> <!-- 8/19/10 -->
+			<object>FE3A5DC7-B2F347A4-82479A9C-4ACBBB92</object> <!-- 8/19/10 -->
+		</node>
+	</node>
+</commerce_point>
