@@ -1,0 +1,807 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<commerce_point>
+	<node>
+		<header>
+			<name lang="en-US" default="true">Armor</name>
+			<name lang="fr-FR">Armure</name>
+			<palette lang="en-US" type="white" default="true" />
+			<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+		</header>  
+		<node>
+			<!-- male only -->
+			<header>
+				<name lang="en-US" default="true">Male</name>
+				<name lang="fr-FR">Homme</name>
+				<palette lang="en-US" type="white" default="true" />
+				<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/Armour_Male_S.png</thumbnail>
+				<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+			</header>      
+			<node>
+				<header>
+					<name lang="en-US" default="true">All Armor</name>
+					<name lang="fr-FR">Toutes les Armure</name>
+					<palette lang="en-US" type="white" default="true" />
+					<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/Armour_All_S.png</thumbnail>
+					<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+				</header>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Bundles</name>
+						<name lang="fr-FR">Pack</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/Armour_Bundles_S.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>	
+					<!-- golden skull -->
+					<object>57952ACD-9F12404B-90DDFF88-E70396F0</object>
+					<!-- multi pack:commando,marine,black tank-->
+					<object>512FEBCE-D69342E0-BE613216-5CBB144B</object> 
+					<!-- multi pack:gi,black ops, desert warrior-->
+					<object>190E0BB8-60074B80-BCAC40F6-7CE7BE95</object>
+					<!-- multi pack:Skully, Already Dead and Born to Kill-->
+					<object>8192812D-76E941DF-AEF844F2-557E0667</object>
+					<!-- invidiual outfit bundles -->
+					<!-- Skully -->
+					<object>77A45179-084144E5-8F3C6E9F-67A32E49</object>
+					<!-- G.I. -->
+					<object>550DB2EC-7FDF4962-9AE333E7-E39D7C8C</object>
+					<!-- Commando -->
+					<object>F12A0F45-44514AA0-BAB0E177-20F2C21B</object>
+					<!-- Already Dead -->
+					<object>83697AE3-D80E40E2-966906B4-C9BE1BAD</object>
+					<!-- Black Ops -->
+					<object>FA22EB09-C369435B-8BCF5023-84E94C7A</object>
+					<!-- Marine -->
+					<object>E33C7B2A-534C4EA5-A59AC22E-1C794FFE</object>
+					<!-- Born To Kill -->
+					<object>811998F8-3B484165-A7C623D8-23101245</object>
+					<!-- Desert Warrior -->
+					<object>056A1FB0-F72F42CE-AF5417A7-9DEEFB09</object>
+					<!-- Black Tank -->
+					<object>8B8DA3B7-90AF4519-AA31C6CC-42AE9CCB</object>
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Skully</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/77A45179-084144E5-8F3C6E9F-67A32E49.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Skully -->
+					<object>77A45179-084144E5-8F3C6E9F-67A32E49</object>
+					<object>E756A58B-47CA4C88-A75CE9AF-FCD44167</object>
+					<object>C72686F7-770341FE-A1A1628D-13863AD8</object>
+					<object>16CFE48C-7CBE44D8-B6F9A889-0B5162FB</object>
+					<object>45BB19AF-F6194872-9D401390-9B1770E4</object>
+					<object>99E76D23-762C4D1C-9A7378EA-4A842407</object>
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">G.I.</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/550DB2EC-7FDF4962-9AE333E7-E39D7C8C.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- G.I. -->
+					<object>550DB2EC-7FDF4962-9AE333E7-E39D7C8C</object>
+					<object>485634AB-9BA745AC-86241E0E-0568B037</object>
+					<object>B45DF710-D1B04FF1-932396D3-925E6C97</object> 
+					<object>6440FEBF-80664711-8E1718A9-93629FE8</object> 
+					<object>8BC9EFBB-7FBD4373-B0F30F1A-A7975261</object> 
+					<object>4A5283C7-277140E4-92FE8A0C-01F2B383</object>  
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Commando</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/F12A0F45-44514AA0-BAB0E177-20F2C21B.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Commando -->
+					<object>F12A0F45-44514AA0-BAB0E177-20F2C21B</object>
+					<object>E0A285F9-0E454B1E-A9080484-06C7C1DE</object>
+					<object>2F0E0156-7D264CE1-ADC4786F-94168E9B</object> 
+					<object>C9FD65C6-2D614D12-BD4E400C-BED21DC4</object> 
+					<object>A9B82BFC-ACEA47C5-AF8F87E5-26EFFE58</object> 
+					<object>3B29DB20-4EEB46B7-A43CD9B9-B4F92A55</object> 
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Already Dead</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/83697AE3-D80E40E2-966906B4-C9BE1BAD.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Already Dead -->
+					<object>83697AE3-D80E40E2-966906B4-C9BE1BAD</object>
+					<object>78C3DAF8-66C1469B-9450C296-6E9CD74A</object>
+					<object>60015BA0-E15548ED-A0966E45-1903CB3A</object> 
+					<object>3662F837-B5704897-B1066B2C-D0C78C66</object> 
+					<object>C6CE2289-9A0E4478-8862C1D7-2912BCFD</object> 
+					<object>1CA57A43-ECD14D08-A98E0DBE-5E53ED06</object>
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Black Ops</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/FA22EB09-C369435B-8BCF5023-84E94C7A.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Black Ops -->
+					<object>FA22EB09-C369435B-8BCF5023-84E94C7A</object>
+					<object>F42D0C08-34D24DC0-B0B031A3-B90D2BDE</object>
+					<object>CE1EFC43-60F94C40-83EF6138-E04D9F04</object> 
+					<object>E00C0D2D-B48A4ADF-A773C88F-7B5CCD6D</object> 
+					<object>53084F47-24444D2B-8F24027F-4953E255</object> 
+					<object>BD513CE3-CC8D4AA2-BE37D713-8E85FBB0</object>  
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Marine</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/E33C7B2A-534C4EA5-A59AC22E-1C794FFE.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Marine -->
+					<object>E33C7B2A-534C4EA5-A59AC22E-1C794FFE</object>
+					<object>867D759A-F29545F7-9D835BEA-FF681FC6</object>
+					<object>16262AE3-F0A74917-BD38D804-607D4BC0</object> 
+					<object>53A8ECB8-4FB946D5-9AA24E04-10BE33AA</object> 
+					<object>62ADB4D3-E26E4600-BE55A850-B6315EEA</object> 
+					<object>8A53286F-029C4DF1-9C9D7D57-8309D237</object> 
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Born To Kill</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/811998F8-3B484165-A7C623D8-23101245.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Born To Kill -->
+					<object>811998F8-3B484165-A7C623D8-23101245</object>
+					<object>73F7EF34-B2364641-AC2D6F36-ABEBDA1F</object>
+					<object>10C03379-CD684572-B502D3EC-C2EA0140</object> 
+					<object>0738C94B-E041487E-87E3A786-F8A34C0C</object> 
+					<object>F319435D-73EB458B-A5A95DEE-16E7EF2C</object> 
+					<object>2C99962B-F68647D0-ADFB8AA3-059994E4</object> 
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Desert Warrior</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/056A1FB0-F72F42CE-AF5417A7-9DEEFB09.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Desert Warrior -->
+					<object>056A1FB0-F72F42CE-AF5417A7-9DEEFB09</object>
+					<object>E915309E-ED05474B-AA1800E9-E8C78FE8</object>
+					<object>89369801-FE3E47DC-9917CBD6-6F75661F</object> 
+					<object>12D3A5A4-E93845DF-8488FFDC-CCDC2AC8</object> 
+					<object>A38320A1-237D493B-9C1E8A6B-5BC3F14A</object> 
+					<object>0ADE83CA-CF41479C-AA0CADA8-DE739CD6</object>
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Black Tank</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/8B8DA3B7-90AF4519-AA31C6CC-42AE9CCB.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Black Tank -->
+					<object>8B8DA3B7-90AF4519-AA31C6CC-42AE9CCB</object>
+					<object>CD9D51F8-88AC450F-ADEEDD40-7C4DBE84</object>
+					<object>A30CAA01-068241D3-88D88C4D-13D95692</object> 
+					<object>55034ACA-B6E742D1-A6DD0FAA-18896377</object> 
+					<object>26BD6135-D80D462C-9E8AC328-36B4D02E</object> 
+					<object>1C8FB919-BAED4299-B76E2796-4827B0F6</object> 
+				</node>
+			</node>
+			<node>
+				<header>
+					<name lang="en-US" default="true">Light</name>
+					<name lang="fr-FR">Légère</name>
+					<palette lang="en-US" type="white" default="true" />
+					<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/Armour_Light_S.png</thumbnail>
+					<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+				</header>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Skully</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/77A45179-084144E5-8F3C6E9F-67A32E49.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Skully -->
+					<object>77A45179-084144E5-8F3C6E9F-67A32E49</object>
+					<object>E756A58B-47CA4C88-A75CE9AF-FCD44167</object>
+					<object>C72686F7-770341FE-A1A1628D-13863AD8</object>
+					<object>16CFE48C-7CBE44D8-B6F9A889-0B5162FB</object>
+					<object>45BB19AF-F6194872-9D401390-9B1770E4</object>
+					<object>99E76D23-762C4D1C-9A7378EA-4A842407</object>
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">G.I.</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/550DB2EC-7FDF4962-9AE333E7-E39D7C8C.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- G.I. -->
+					<object>550DB2EC-7FDF4962-9AE333E7-E39D7C8C</object>
+					<object>485634AB-9BA745AC-86241E0E-0568B037</object>
+					<object>B45DF710-D1B04FF1-932396D3-925E6C97</object> 
+					<object>6440FEBF-80664711-8E1718A9-93629FE8</object> 
+					<object>8BC9EFBB-7FBD4373-B0F30F1A-A7975261</object> 
+					<object>4A5283C7-277140E4-92FE8A0C-01F2B383</object>  
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Commando</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/F12A0F45-44514AA0-BAB0E177-20F2C21B.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Commando -->
+					<object>F12A0F45-44514AA0-BAB0E177-20F2C21B</object>
+					<object>E0A285F9-0E454B1E-A9080484-06C7C1DE</object>
+					<object>2F0E0156-7D264CE1-ADC4786F-94168E9B</object> 
+					<object>C9FD65C6-2D614D12-BD4E400C-BED21DC4</object> 
+					<object>A9B82BFC-ACEA47C5-AF8F87E5-26EFFE58</object> 
+					<object>3B29DB20-4EEB46B7-A43CD9B9-B4F92A55</object> 
+				</node>
+			</node>
+			<node>
+				<header>
+					<name lang="en-US" default="true">Medium</name>
+					<name lang="fr-FR" >Moyenne</name>
+					<palette lang="en-US" type="white" default="true" />
+					<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/Armour_Medium_S.png</thumbnail>
+					<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+				</header>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Already Dead</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/83697AE3-D80E40E2-966906B4-C9BE1BAD.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Already Dead -->
+					<object>83697AE3-D80E40E2-966906B4-C9BE1BAD</object>
+					<object>78C3DAF8-66C1469B-9450C296-6E9CD74A</object>
+					<object>60015BA0-E15548ED-A0966E45-1903CB3A</object> 
+					<object>3662F837-B5704897-B1066B2C-D0C78C66</object> 
+					<object>C6CE2289-9A0E4478-8862C1D7-2912BCFD</object> 
+					<object>1CA57A43-ECD14D08-A98E0DBE-5E53ED06</object>
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Black Ops</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/FA22EB09-C369435B-8BCF5023-84E94C7A.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Black Ops -->
+					<object>FA22EB09-C369435B-8BCF5023-84E94C7A</object>
+					<object>F42D0C08-34D24DC0-B0B031A3-B90D2BDE</object>
+					<object>CE1EFC43-60F94C40-83EF6138-E04D9F04</object> 
+					<object>E00C0D2D-B48A4ADF-A773C88F-7B5CCD6D</object> 
+					<object>53084F47-24444D2B-8F24027F-4953E255</object> 
+					<object>BD513CE3-CC8D4AA2-BE37D713-8E85FBB0</object>  
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Marine</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/E33C7B2A-534C4EA5-A59AC22E-1C794FFE.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Marine -->
+					<object>E33C7B2A-534C4EA5-A59AC22E-1C794FFE</object>
+					<object>867D759A-F29545F7-9D835BEA-FF681FC6</object>
+					<object>16262AE3-F0A74917-BD38D804-607D4BC0</object> 
+					<object>53A8ECB8-4FB946D5-9AA24E04-10BE33AA</object> 
+					<object>62ADB4D3-E26E4600-BE55A850-B6315EEA</object> 
+					<object>8A53286F-029C4DF1-9C9D7D57-8309D237</object> 
+				</node>
+			</node>
+			<node>
+				<header>
+					<name lang="en-US" default="true">Heavy</name>
+					<name lang="fr-FR" >Lourde</name>
+					<palette lang="en-US" type="white" default="true" />
+					<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/Armour_Heavy_S.png</thumbnail>
+					<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+				</header>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Born To Kill</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/811998F8-3B484165-A7C623D8-23101245.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Born To Kill -->
+					<object>811998F8-3B484165-A7C623D8-23101245</object>
+					<object>73F7EF34-B2364641-AC2D6F36-ABEBDA1F</object>
+					<object>10C03379-CD684572-B502D3EC-C2EA0140</object> 
+					<object>0738C94B-E041487E-87E3A786-F8A34C0C</object> 
+					<object>F319435D-73EB458B-A5A95DEE-16E7EF2C</object> 
+					<object>2C99962B-F68647D0-ADFB8AA3-059994E4</object> 
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Desert Warrior</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/056A1FB0-F72F42CE-AF5417A7-9DEEFB09.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Desert Warrior -->
+					<object>056A1FB0-F72F42CE-AF5417A7-9DEEFB09</object>
+					<object>E915309E-ED05474B-AA1800E9-E8C78FE8</object>
+					<object>89369801-FE3E47DC-9917CBD6-6F75661F</object> 
+					<object>12D3A5A4-E93845DF-8488FFDC-CCDC2AC8</object> 
+					<object>A38320A1-237D493B-9C1E8A6B-5BC3F14A</object> 
+					<object>0ADE83CA-CF41479C-AA0CADA8-DE739CD6</object>
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Black Tank</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/8B8DA3B7-90AF4519-AA31C6CC-42AE9CCB.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Black Tank -->
+					<object>8B8DA3B7-90AF4519-AA31C6CC-42AE9CCB</object>
+					<object>CD9D51F8-88AC450F-ADEEDD40-7C4DBE84</object>
+					<object>A30CAA01-068241D3-88D88C4D-13D95692</object> 
+					<object>55034ACA-B6E742D1-A6DD0FAA-18896377</object> 
+					<object>26BD6135-D80D462C-9E8AC328-36B4D02E</object> 
+					<object>1C8FB919-BAED4299-B76E2796-4827B0F6</object> 
+				</node>
+			</node>
+			<node type="objects">
+				<header>
+					<name lang="en-US" default="true">Premium</name>
+					<palette lang="en-US" type="white" default="true" />
+					<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/Armour_Premium_S.png</thumbnail>
+					<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+				</header>
+				<!--Reaver -->
+				<object>57952ACD-9F12404B-90DDFF88-E70396F0</object>
+			</node>
+			<node type="objects">
+				<header>
+					<name lang="en-US" default="true">Bundles</name>
+					<name lang="fr-FR">Pack</name>
+					<palette lang="en-US" type="white" default="true" />
+					<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/Armour_Bundles_S.png</thumbnail>
+					<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+				</header>
+				<!-- golden skull -->
+				<object>57952ACD-9F12404B-90DDFF88-E70396F0</object>
+				<!-- multi pack:commando,marine,black tank-->
+				<object>512FEBCE-D69342E0-BE613216-5CBB144B</object> 
+				<!-- multi pack:gi,black ops, desert warrior-->
+				<object>190E0BB8-60074B80-BCAC40F6-7CE7BE95</object>
+				<!-- multi pack:Skully, Already Dead and Born to Kill-->
+				<object>8192812D-76E941DF-AEF844F2-557E0667</object>
+				<!-- invidiual outfit bundles -->
+				<!-- Skully -->
+				<object>77A45179-084144E5-8F3C6E9F-67A32E49</object>
+				<!-- G.I. -->
+				<object>550DB2EC-7FDF4962-9AE333E7-E39D7C8C</object>
+				<!-- Commando -->
+				<object>F12A0F45-44514AA0-BAB0E177-20F2C21B</object>
+				<!-- Already Dead -->
+				<object>83697AE3-D80E40E2-966906B4-C9BE1BAD</object>
+				<!-- Black Ops -->
+				<object>FA22EB09-C369435B-8BCF5023-84E94C7A</object>
+				<!-- Marine -->
+				<object>E33C7B2A-534C4EA5-A59AC22E-1C794FFE</object>
+				<!-- Born To Kill -->
+				<object>811998F8-3B484165-A7C623D8-23101245</object>
+				<!-- Desert Warrior -->
+				<object>056A1FB0-F72F42CE-AF5417A7-9DEEFB09</object>
+				<!-- Black Tank -->
+				<object>8B8DA3B7-90AF4519-AA31C6CC-42AE9CCB</object>
+			</node>				
+		</node>
+		<node>	
+			<!-- female only -->
+			<header>
+				<name lang="en-US" default="true">Female</name>
+				<name lang="fr-FR">Femme</name>
+				<palette lang="en-US" type="white" default="true" />
+				<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/Armour_Female_S.png</thumbnail>
+				<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+			</header>      
+			<node>
+				<header>
+					<name lang="en-US" default="true">All Armor</name>
+					<name lang="fr-FR">Toutes les Armure</name>
+					<palette lang="en-US" type="white" default="true" />
+					<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/Armour_All_S.png</thumbnail>
+					<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+				</header>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Bundles</name>
+						<name lang="fr-FR">Pack</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/Armour_Bundles_S.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>	
+					<!-- silver skull -->
+					<object>57952ACD-9F12404B-90DDFF88-E70396F0</object>
+					<!-- multi pack:commando,marine,black tank-->
+					<object>74385D7F-00514490-843BE12D-521737A0</object> 
+					<!-- multi pack:gi,black ops, desert warrior-->
+					<object>B7FEDCDA-5BBE428C-BDD9F34D-9ACDA784</object>
+					<!-- multi pack:Patriot, Wonder Weapon and Devil Girl-->
+					<object>A9A1D924-FC964786-A226137F-E9C914CD</object>
+					<!-- invidiual outfit bundles -->
+					<!-- Patriot -->
+					<object>5AF9DC53-009C4FD7-8AEBF123-D6F91E36</object>
+					<!-- G.I. -->
+					<object>4B387F5C-0B8B4A00-9E24F184-AEE3278B</object>
+					<!-- Commando -->
+					<object>3C7EB7E1-E40842E9-A3DAA1D4-84E8E60E</object>
+					<!-- Wonder Weapon -->
+					<object>E17B9D21-5B644E2F-A9B55674-EA011E40</object>
+					<!-- Black Ops -->
+					<object>CC78E900-295E4640-A57BB42F-F493F5E6</object>
+					<!-- Marine -->
+					<object>6F8E1A90-8C2945CD-8578165E-AD55239E</object>
+					<!-- Devil Girl -->
+					<object>C67C7349-00AD4CB3-9A5FE96E-37E78A57</object>
+					<!-- Desert Warrior -->
+					<object>3D09B184-16D645E6-98867D49-E888ACC7</object>
+					<!-- Black Tank -->
+					<object>D2AC9686-842A455F-BABFE006-6FBFD1B8</object>
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Patriot</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/5AF9DC53-009C4FD7-8AEBF123-D6F91E36.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Patriot -->
+					<object>5AF9DC53-009C4FD7-8AEBF123-D6F91E36</object>
+					<object>0BDEEC9C-9CF0496D-8012F577-0CFD7D6F</object>
+					<object>17417A69-ECE74F2D-B9EC2F6B-E6ADFDB2</object> 
+					<object>D8DC8227-E6044734-A634969A-AADEDEE4</object> 
+					<object>0976F8B3-102D45FB-9B46682D-8FDDF096</object> 
+					<object>DA7EE37E-FBEF4013-A7D10F10-99BEA4C9</object> 
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">G.I.</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/4B387F5C-0B8B4A00-9E24F184-AEE3278B.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- G.I. -->
+					<object>4B387F5C-0B8B4A00-9E24F184-AEE3278B</object>
+					<object>B520FD0A-8DA54903-84767B00-8FCDA513</object>
+					<object>A987628B-A86843F8-885911EC-74F39961</object> 
+					<object>302ACB20-D6014B9B-ACCD346E-8B6FA38C</object> 
+					<object>487900CC-3CF74D3F-B8DC9793-CAA51AC6</object> 
+					<object>53244912-802C4329-A33474D9-897BC8E6</object>  
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Commando</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/3C7EB7E1-E40842E9-A3DAA1D4-84E8E60E.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Commando -->
+					<object>3C7EB7E1-E40842E9-A3DAA1D4-84E8E60E</object>
+					<object>3DF04425-24C44FB7-B23B895B-EA595E57</object>
+					<object>2390A977-25024A45-BEEA3593-06F14D7F</object> 
+					<object>198252F7-25EF42C9-9EEF9008-76583EB6</object> 
+					<object>0CB8CF05-7FF64851-AF2BA62F-DBA3FE66</object> 
+					<object>71B3E53E-FF0F4C0C-98B7DBE6-58CE0943</object> 
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Wonder Weapon</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/E17B9D21-5B644E2F-A9B55674-EA011E40.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Wonder Weapon -->
+					<object>E17B9D21-5B644E2F-A9B55674-EA011E40</object>
+					<object>C3AAF9C5-4049494F-AD8B0448-C97128CB</object>
+					<object>294A605D-1D074662-B68F80A6-D335D298</object> 
+					<object>BF14FB61-C0C54CCE-A626FC13-C777F1BD</object> 
+					<object>D817B077-13264D9D-9AAD2878-D280B76A</object> 
+					<object>44B00365-9EF34F9D-93677D49-38406942</object> 
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Black Ops</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/CC78E900-295E4640-A57BB42F-F493F5E6.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Black Ops -->
+					<object>CC78E900-295E4640-A57BB42F-F493F5E6</object>
+					<object>2307CD5B-AA0D4A20-9A08E49E-5EE80E7A</object>
+					<object>81E2CBA2-0E8E4F62-87534824-EB3A39B1</object> 
+					<object>112C3794-4309496A-86C0B0C4-795B8438</object> 
+					<object>5D1BF69A-B32B4FAF-B01286DE-BED7FB59</object> 
+					<object>690903D0-E6AB4501-9D25EE62-94474370</object>  
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Marine</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/6F8E1A90-8C2945CD-8578165E-AD55239E.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Marine -->
+					<object>6F8E1A90-8C2945CD-8578165E-AD55239E</object>
+					<object>CA38BEF9-1DDA437C-837E0887-82809E9F</object>
+					<object>B1191F0D-8F7F492B-AF8E7919-48637E20</object> 
+					<object>CFC78366-D6DD4BDD-BE74DBF6-C3603748</object> 
+					<object>695B158A-44DC4BED-A5C0CEEF-BD374ABD</object> 
+					<object>18FB2635-01024BAC-BCF02A59-1D1043D4</object>
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Devil Girl</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/C67C7349-00AD4CB3-9A5FE96E-37E78A57.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Devil Girl -->
+					<object>C67C7349-00AD4CB3-9A5FE96E-37E78A57</object>
+					<object>A8FEE521-685341FA-AFAE7710-46E15998</object>
+					<object>278BEDE5-ACD74DAE-8A29649B-168FCB19</object> 
+					<object>581E964D-C3A54F83-A8832449-E8A370A3</object> 
+					<object>2129D1E6-3E124E5F-9A0C6534-BEB00E9F</object> 
+					<object>B204D35E-98EE498D-B8FB87D2-715BA5B3</object> 
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Desert Warrior</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/3D09B184-16D645E6-98867D49-E888ACC7.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Desert Warrior -->
+					<object>3D09B184-16D645E6-98867D49-E888ACC7</object>
+					<object>76D9AD76-7898416D-BF08DB38-439B7E6A</object>
+					<object>FF16C2F0-3C1A4EF9-A77D1420-E876BB38</object> 
+					<object>65C1E979-5578428A-A42B9D7F-EAAA4FD4</object> 
+					<object>8EEF9DCF-9455410B-9546F6B4-8D8D6215</object> 
+					<object>7420053C-4F834BD1-AF0DBAFF-4B0812E4</object> 
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Black Tank</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/D2AC9686-842A455F-BABFE006-6FBFD1B8.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Black Tank -->
+					<object>D2AC9686-842A455F-BABFE006-6FBFD1B8</object>
+					<object>6281E93F-04A442F4-BE1C577F-8D5BD818</object>
+					<object>2D47BBF3-D1F440BF-94762B86-17640945</object> 
+					<object>27D8154F-E9554294-96F12A8B-5E9C77F7</object> 
+					<object>04D496D6-80AF46B9-8116B45E-04E368DB</object> 
+					<object>27887554-9EB14CED-8EABFD80-F6F191C8</object> 
+				</node>
+			</node>
+			<node>
+				<header>
+					<name lang="en-US" default="true">Light</name>
+					<name lang="fr-FR" >Légère</name>
+					<palette lang="en-US" type="white" default="true" />
+					<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/Armour_Light_S.png</thumbnail>
+					<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+				</header>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Patriot</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/5AF9DC53-009C4FD7-8AEBF123-D6F91E36.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Patriot -->
+					<object>5AF9DC53-009C4FD7-8AEBF123-D6F91E36</object>
+					<object>0BDEEC9C-9CF0496D-8012F577-0CFD7D6F</object>
+					<object>17417A69-ECE74F2D-B9EC2F6B-E6ADFDB2</object> 
+					<object>D8DC8227-E6044734-A634969A-AADEDEE4</object> 
+					<object>0976F8B3-102D45FB-9B46682D-8FDDF096</object> 
+					<object>DA7EE37E-FBEF4013-A7D10F10-99BEA4C9</object> 
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">G.I.</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/4B387F5C-0B8B4A00-9E24F184-AEE3278B.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- G.I. -->
+					<object>4B387F5C-0B8B4A00-9E24F184-AEE3278B</object>
+					<object>B520FD0A-8DA54903-84767B00-8FCDA513</object>
+					<object>A987628B-A86843F8-885911EC-74F39961</object> 
+					<object>302ACB20-D6014B9B-ACCD346E-8B6FA38C</object> 
+					<object>487900CC-3CF74D3F-B8DC9793-CAA51AC6</object> 
+					<object>53244912-802C4329-A33474D9-897BC8E6</object>  
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Commando</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/3C7EB7E1-E40842E9-A3DAA1D4-84E8E60E.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Commando -->
+					<object>3C7EB7E1-E40842E9-A3DAA1D4-84E8E60E</object>
+					<object>3DF04425-24C44FB7-B23B895B-EA595E57</object>
+					<object>2390A977-25024A45-BEEA3593-06F14D7F</object> 
+					<object>198252F7-25EF42C9-9EEF9008-76583EB6</object> 
+					<object>0CB8CF05-7FF64851-AF2BA62F-DBA3FE66</object> 
+					<object>71B3E53E-FF0F4C0C-98B7DBE6-58CE0943</object> 
+				</node>
+			</node>
+			<node>
+				<header>
+					<name lang="en-US" default="true">Medium</name>
+					<name lang="fr-FR">Moyenne</name>
+					<palette lang="en-US" type="white" default="true" />
+					<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/Armour_Medium_S.png</thumbnail>
+					<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+				</header>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Wonder Weapon</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/E17B9D21-5B644E2F-A9B55674-EA011E40.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Wonder Weapon -->
+					<object>E17B9D21-5B644E2F-A9B55674-EA011E40</object>
+					<object>C3AAF9C5-4049494F-AD8B0448-C97128CB</object>
+					<object>294A605D-1D074662-B68F80A6-D335D298</object> 
+					<object>BF14FB61-C0C54CCE-A626FC13-C777F1BD</object> 
+					<object>D817B077-13264D9D-9AAD2878-D280B76A</object> 
+					<object>44B00365-9EF34F9D-93677D49-38406942</object> 
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Black Ops</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/CC78E900-295E4640-A57BB42F-F493F5E6.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Black Ops -->
+					<object>CC78E900-295E4640-A57BB42F-F493F5E6</object>
+					<object>2307CD5B-AA0D4A20-9A08E49E-5EE80E7A</object>
+					<object>81E2CBA2-0E8E4F62-87534824-EB3A39B1</object> 
+					<object>112C3794-4309496A-86C0B0C4-795B8438</object> 
+					<object>5D1BF69A-B32B4FAF-B01286DE-BED7FB59</object> 
+					<object>690903D0-E6AB4501-9D25EE62-94474370</object>  
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Marine</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/6F8E1A90-8C2945CD-8578165E-AD55239E.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Marine -->
+					<object>6F8E1A90-8C2945CD-8578165E-AD55239E</object>
+					<object>CA38BEF9-1DDA437C-837E0887-82809E9F</object>
+					<object>B1191F0D-8F7F492B-AF8E7919-48637E20</object> 
+					<object>CFC78366-D6DD4BDD-BE74DBF6-C3603748</object> 
+					<object>695B158A-44DC4BED-A5C0CEEF-BD374ABD</object> 
+					<object>18FB2635-01024BAC-BCF02A59-1D1043D4</object>
+				</node>
+			</node>
+			<node>
+				<header>
+					<name lang="en-US" default="true">Heavy</name>
+					<name lang="fr-FR">Lourde</name>
+					<palette lang="en-US" type="white" default="true" />
+					<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/Armour_Heavy_S.png</thumbnail>
+					<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+				</header>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Devil Girl</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/C67C7349-00AD4CB3-9A5FE96E-37E78A57.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Devil Girl -->
+					<object>C67C7349-00AD4CB3-9A5FE96E-37E78A57</object>
+					<object>A8FEE521-685341FA-AFAE7710-46E15998</object>
+					<object>278BEDE5-ACD74DAE-8A29649B-168FCB19</object> 
+					<object>581E964D-C3A54F83-A8832449-E8A370A3</object> 
+					<object>2129D1E6-3E124E5F-9A0C6534-BEB00E9F</object> 
+					<object>B204D35E-98EE498D-B8FB87D2-715BA5B3</object> 
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Desert Warrior</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/3D09B184-16D645E6-98867D49-E888ACC7.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Desert Warrior -->
+					<object>3D09B184-16D645E6-98867D49-E888ACC7</object>
+					<object>76D9AD76-7898416D-BF08DB38-439B7E6A</object>
+					<object>FF16C2F0-3C1A4EF9-A77D1420-E876BB38</object> 
+					<object>65C1E979-5578428A-A42B9D7F-EAAA4FD4</object> 
+					<object>8EEF9DCF-9455410B-9546F6B4-8D8D6215</object> 
+					<object>7420053C-4F834BD1-AF0DBAFF-4B0812E4</object> 
+				</node>
+				<node type="objects">
+					<header>
+						<name lang="en-US" default="true">Black Tank</name>
+						<palette lang="en-US" type="white" default="true" />
+						<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/D2AC9686-842A455F-BABFE006-6FBFD1B8.png</thumbnail>
+						<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+					</header>
+					<!-- Black Tank -->
+					<object>D2AC9686-842A455F-BABFE006-6FBFD1B8</object>
+					<object>6281E93F-04A442F4-BE1C577F-8D5BD818</object>
+					<object>2D47BBF3-D1F440BF-94762B86-17640945</object> 
+					<object>27D8154F-E9554294-96F12A8B-5E9C77F7</object> 
+					<object>04D496D6-80AF46B9-8116B45E-04E368DB</object> 
+					<object>27887554-9EB14CED-8EABFD80-F6F191C8</object> 
+				</node>
+			</node>
+			<node type="objects">
+				<header>
+					<name lang="en-US" default="true">Premium</name>
+					<name lang="fr-FR">Premium</name>
+					<palette lang="en-US" type="white" default="true" />
+					<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/Armour_Premium_S.png</thumbnail>
+					<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+				</header>
+				<object>57952ACD-9F12404B-90DDFF88-E70396F0</object>
+			</node>
+			<node type="objects">
+				<header>
+					<name lang="en-US" default="true">Bundles</name>
+					<name lang="fr-FR">Pack</name>
+					<palette lang="en-US" type="white" default="true" />
+					<thumbnail lang="en-US" default="true" useOsdColour="false">http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/Armour_Bundles_S.png</thumbnail>
+					<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/NML_CommerceBackground2.dds</background> 
+				</header>	
+				<!-- silver skull -->
+				<object>57952ACD-9F12404B-90DDFF88-E70396F0</object>
+				<!-- multi pack:commando,marine,black tank-->
+				<object>74385D7F-00514490-843BE12D-521737A0</object> 
+				<!-- multi pack:gi,black ops, desert warrior-->
+				<object>B7FEDCDA-5BBE428C-BDD9F34D-9ACDA784</object>
+				<!-- multi pack:Patriot, Wonder Weapon and Devil Girl-->
+				<object>A9A1D924-FC964786-A226137F-E9C914CD</object>
+				<!-- invidiual outfit bundles -->
+				<!-- Patriot -->
+				<object>5AF9DC53-009C4FD7-8AEBF123-D6F91E36</object>
+				<!-- G.I. -->
+				<object>4B387F5C-0B8B4A00-9E24F184-AEE3278B</object>
+				<!-- Commando -->
+				<object>3C7EB7E1-E40842E9-A3DAA1D4-84E8E60E</object>
+				<!-- Wonder Weapon -->
+				<object>E17B9D21-5B644E2F-A9B55674-EA011E40</object>
+				<!-- Black Ops -->
+				<object>CC78E900-295E4640-A57BB42F-F493F5E6</object>
+				<!-- Marine -->
+				<object>6F8E1A90-8C2945CD-8578165E-AD55239E</object>
+				<!-- Devil Girl -->
+				<object>C67C7349-00AD4CB3-9A5FE96E-37E78A57</object>
+				<!-- Desert Warrior -->
+				<object>3D09B184-16D645E6-98867D49-E888ACC7</object>
+				<!-- Black Tank -->
+				<object>D2AC9686-842A455F-BABFE006-6FBFD1B8</object>
+			</node>				
+		</node>
+	</node>
+</commerce_point>

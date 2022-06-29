@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<commerce_point>
+ 	<node type="products"> <!-- PSN Games -->
+      <header>
+        <name lang="en-US" default="true">Playstation Plus</name>
+		<background>http://scea-home.playstation.net/a.home/hosted/CommercePoints/Thumbnails/onestopshop_bg_scea.dds</background> 
+      </header>
+		<product category="UP4371-NPUB30958_00">IP9101-NPIA90005_01-3MONTHPACKAGE000</product>	
+		<product category="UP4371-NPUB30958_00">IP9101-NPIA90005_01-1YEARPACKAGE0000</product>		
+				  	 	 		
+</node>
+</commerce_point>
