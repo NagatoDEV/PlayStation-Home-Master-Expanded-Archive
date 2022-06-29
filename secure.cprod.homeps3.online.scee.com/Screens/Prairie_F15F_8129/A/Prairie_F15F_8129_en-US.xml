@@ -1,0 +1,21 @@
+<XML>
+  <SCREEN ID="Prairie_Entry_Video">
+    <TYPE>VIDEO</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Lockwood_Assets/Prairie/Prairie_Horses_Home.mp4</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Prairie_Entry_Poster">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Lockwood_Assets/Prairie/LKWD_Horse_160113_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Lockwood_Assets/Prairie/Unicorn_160113_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Prairie_House_Poster">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Lockwood_Assets/Prairie/LKWD_Horse_160113_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Lockwood_Assets/Prairie/Unicorn_160113_256x368.dds</SOURCE>
+  </SCREEN>
+  <SCREEN ID="Prairie_Shack_Poster">
+    <TYPE>IMAGES</TYPE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Lockwood_Assets/Prairie/LKWD_Horse_160113_256x368.dds</SOURCE>
+    <SOURCE>http://scea-home.playstation.net/a.home/mfe/content/Lockwood_Assets/Prairie/Unicorn_160113_256x368.dds</SOURCE>
+  </SCREEN>
+</XML>
