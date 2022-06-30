@@ -58,7 +58,7 @@
 		
 ![NPIA00005_screenshot_2022_05_09_12_54_38](https://user-images.githubusercontent.com/67494727/170828005-c67ae83b-29e0-450a-950c-e855dfb6dedc.png)
 		
-✅ | As of `6/17/2022` the [Destination Home Team](https://github.com/DestinationHome) has created another [archive](https://github.com/NagatoDEV/PlayStation-Home-Master-Expanded-Archive) (PlayStation Home Master Expanded Archive) as an extension to this original repository. This archive will also contain Home's CDN networking infrastructure for preservation efforts.
+✅ | As of `6/17/2022` the [Destination Home Team](https://github.com/DestinationHome) has created another [archive](https://github.com/NagatoDEV/PlayStation-Home-Master-Expanded-Archive) (PlayStation Home Master Expanded Archive) as an extension to this [original](https://github.com/NagatoDEV/PlayStation-Home-Master-Archive) repository. This archive will also contain Home's CDN networking infrastructure for preservation efforts.
 :---: | :---		
 		
 This archive is based on Home's CDN Servers from April 1st, 2015. Additionally, this archive is a [mirror](https://github.com/johndrinkwater/ps-home-archive) of JohnDrinkWater's snapshot from Home & will be updated whenever the [Destination Home Team](http://destinationho.me/) obtains more data via cache donations from ex-Home users. All of the main CDN contents will be posted in the main branch. If you want to see the directory tree archive for this repo you can click [here](https://gist.github.com/NagatoDEV/161fd1cd5e91a20936bc35a0bf1e80a4) for more details. 
@@ -78,26 +78,12 @@ https://user-images.githubusercontent.com/67494727/162584731-6b0d131c-83b1-4753-
 
 ![NPIA00005_screenshot_2022_05_30_19_10_37](https://user-images.githubusercontent.com/67494727/171688035-d7e10323-b2b9-45fa-9c5d-bd5fd547c21b.png)
 
-<h1 align="center">6/9/2022:</h1>
+<h1 align="center">6/30/2022:</h1>
 
 * Added the following data to this archive:
 		
-    * Added new Shouei_Kingdom_1_1F57_8149 `.SDC` versions (**T040** & **T042**) [here](https://github.com/NagatoDEV/PlayStation-Home-Master-Archive/commit/d8c01c7a2338669029f162beceb16332640ce719).
+    * Added *Bootup Advert* [icons](https://github.com/NagatoDEV/PlayStation-Home-Master-Expanded-Archive/compare/ed2407a7753b...c17ff5139e33) & commerce point thumbnails from [SCEE](https://github.com/NagatoDEV/PlayStation-Home-Master-Expanded-Archive/commit/8834d8fe08ef8c59889ab19d7774894677511466#diff-c965f937c1658ef9b4a37ea4feaa317aa09fe830783a28c817a9dee2eb90d2c2).
 		
-<h1 align="center">6/3/2022:</h1>
-
-* Added the following data to this archive:
-		
-    * Added SCE_HomeSquare `.SDC` information [here](https://github.com/NagatoDEV/PlayStation-Home-Master-Archive/commit/3432628e73e677ef621218c252d78da083226d57).
-		
-<h1 align="center">6/2/2022:</h1>
-
-* Added the following data to this archive: 
-    
-  * Added June 2009 Screenlinks from the `SCEE` "EU region" which can be found [here](https://github.com/NagatoDEV/PlayStation-Home-Master-Archive/commit/cc90e859de3b82e284c136060f1b1d218d3eddb3).
-  * Added July 2009 Screenlinks from the `SCEE` "EU region" which can be found [here](https://github.com/NagatoDEV/PlayStation-Home-Master-Archive/commit/170dfa80ae2c0d28ad2d7c22684bb12be39d2e06).
-  * Added GI Joe [Screenlinks](https://github.com/NagatoDEV/PlayStation-Home-Master-Archive/commit/723ecc3eef944e0079f4f8c901e9cc6f4401ecfb) from the `SCEE` "EU region".
-  * Added Fat Princess [Screenlinks](https://github.com/NagatoDEV/PlayStation-Home-Master-Archive/commit/503e5c2768368b396d4e3616113f6a70c82bfa55) from the `SCEE` "EU Region".
 
 
 # Observed Domains/URL's:
@@ -258,7 +244,7 @@ Additionally, this archive will also preserve any PlayStation®Home websites & 3
 
 # General information about this archive:
 
-As of 10/23/2021, this archive/repo contains 207GB's `223,164,867,370 bytes` worth of Home Data. This archive contains the following data information:
+As of 10/23/2021, the original **[PlayStation Home Master Archive](https://github.com/NagatoDEV/PlayStation-Home-Master-Archive)** contains 207GB's `223,164,867,370 bytes` worth of Home Data. This archive contains the following data information:
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67494727/138552712-256ecdbb-c99f-412f-a72c-dcc800e729ce.png">
